@@ -53,6 +53,8 @@
 * [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
 * [LearnWebCode](https://www.youtube.com/user/LearnWebCode)
 * [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw)
+* [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+* [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 
 
   
@@ -120,6 +122,7 @@
 * [Edward Sa](https://www.youtube.com/user/IngeniousEdits)
 * [Paola from TOKYO](https://www.youtube.com/channel/UCixD9UbKvDxzGNiPC_fgHyA)
 * [Life of Luba](https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)
+* [Socratica](https://www.youtube.com/user/SocraticaStudios)
 
 
 
@@ -139,6 +142,10 @@
 * [Junio Developer Central](https://www.youtube.com/channel/UCuvTObpdx__W966kbdIZ4_Q)
 * [Fredrik Christenson](https://www.youtube.com/user/Fidde12345)
 * [Better Coding Academy](https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA)
+* [All things JavaScript, LLC](https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w)
+* [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
+* [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+* [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 
 ### Retired 
 > These channels haven't uploaded in the last six months
