@@ -25,9 +25,17 @@
 * [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/featured)
 * [Level Up Tuts](https://www.youtube.com/user/LevelUpTuts)
+* [Codecourse](https://www.youtube.com/user/phpacademy)
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+* [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)
+* [Wes Bos](https://www.youtube.com/user/wesbos)
 * []()
 * []()
 * []()
+* []()
+* []()
+
+
 
 
   
@@ -44,8 +52,8 @@
 * [Simple Programmer](https://www.youtube.com/channel/UCRxWW_Ncs308nW4An23Yeig)
 * [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 * [Stefan Mischook](https://www.youtube.com/user/killerphp)
-* []()
-* []()
+* [mayuko](https://www.youtube.com/user/hellomayuko)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * []()
 * []()
 
@@ -56,7 +64,7 @@
 * [Coding Garden With CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
 * [The Coding Train](https://www.youtube.com/user/shiffman)
 * [Bisqwit](https://www.youtube.com/user/Bisqwit)
-* []()
+* [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
 * []()
 * []()
 * []()
@@ -79,7 +87,7 @@
 
 
 ### Up And Coming
-> These channels have less then a thousand subsribers
+> These channels have less then a thousand subsribers or less then 1000 views a month
 * []()
 * []()
 * []()
@@ -90,5 +98,7 @@
 ### Retired 
 > These channels haven't uploaded in the last six months
 * [The New Boston](https://www.youtube.com/user/thenewboston/featured)
-    
+* [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
+* [Adam Khoury](https://www.youtube.com/user/flashbuilding) 
+* [DevMarketer] (https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA)
     
