@@ -20,6 +20,7 @@
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
+* [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 * [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
@@ -46,6 +47,12 @@
 * [Chris Coyier](https://www.youtube.com/user/realcsstricks)
 * [mmtuts](https://www.youtube.com/user/TheCharmefis)
 * [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ)
+* [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+* [CodingTheSmartWay](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ)
+* [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
+* [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+* [LearnWebCode](https://www.youtube.com/user/LearnWebCode)
+* [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw)
 
 
   
@@ -86,6 +93,8 @@
 * [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 * [Google Students](https://www.youtube.com/user/GoogleStudents)
 * [TheHappieCat](https://www.youtube.com/user/TheHappieCat)
+* [Treehouse](https://www.youtube.com/user/gotreehouse)
+* [Jesse Whowalter](https://www.youtube.com/user/JesseAtomic)
 
 
 
@@ -126,7 +135,10 @@
 * [Julio Codes](https://www.youtube.com/channel/UCeHWTyAKBv_WnW8gsEKGECw)
 * [Nevci](https://www.youtube.com/channel/UCXu-MNRftJzqQNwwzXiLFEQ)
 * [pixelgeek](https://www.youtube.com/user/thepxlgk)
-* [KingHerring](https://www.youtube.com/user/KingHerring)
+* [KingHerring](https://www.youtube.com/user/KingHerring)'
+* [Junio Developer Central](https://www.youtube.com/channel/UCuvTObpdx__W966kbdIZ4_Q)
+* [Fredrik Christenson](https://www.youtube.com/user/Fidde12345)
+* [Better Coding Academy](https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA)
 
 ### Retired 
 > These channels haven't uploaded in the last six months
@@ -148,4 +160,7 @@
 * [Plavookac](https://www.youtube.com/channel/UCDfZM0IK6RBgud8HYGFXAJg)
 * [PB Coding](https://www.youtube.com/channel/UCKYJJA7nYEu6HfVwmje3YXQ)
 * [Bootstrap Studio](https://www.youtube.com/channel/UCSYIIy89n_Do4Rbyyqa7FeQ)
+* [Tyler Moore](https://www.youtube.com/user/Conutant)
+* [Joseph Smith](https://www.youtube.com/user/TheHelpingDevelop)
+* [Naveed Ziarab](https://www.youtube.com/user/Creativitytuts)
     
