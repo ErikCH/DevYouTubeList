@@ -3,9 +3,14 @@
 
 
 - [Amazing Developers Of YouTube](#amazing-developers-of-youtube)
-    -
+    - [Tutorial](#tutorial)
+    - [Informational](#informational)
+    - [Live Coding](#live-coding)
+    - [Software Entertainment](#software-entertainment)
+    - [Up and coming](#up-and-coming)
+    - [Retired](#retired)
     
-#
+# Resources
     
 ## Tutorial
 > These channels focus on tutorials and code alongs.
