@@ -146,6 +146,7 @@
 * [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
+* [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
 
 ### Retired 
 > These channels haven't uploaded in the last six months
