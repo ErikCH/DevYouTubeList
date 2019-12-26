@@ -110,7 +110,7 @@
 * [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
 * [Edward Sa](https://www.youtube.com/user/IngeniousEdits)
 * [Paola from TOKYO](https://www.youtube.com/channel/UCixD9UbKvDxzGNiPC_fgHyA)
-* [Life of Luba)(https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)
+* [Life of Luba](https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)
 
 
 
@@ -134,7 +134,7 @@
 * [The New Boston](https://www.youtube.com/user/thenewboston/featured)
 * [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
 * [Adam Khoury](https://www.youtube.com/user/flashbuilding) 
-* [DevMarketer] (https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA)
+* [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA)
 * [Dave Xiang](https://www.youtube.com/user/daveXbang)
 * [Sylvester Morgan](https://www.youtube.com/channel/UCVj_s6XbQcwlRMZjeO_7QSw)
 * [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
