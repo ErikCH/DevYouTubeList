@@ -9,9 +9,9 @@
     - [Software Entertainment](#software-entertainment)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
-    
+
 # Resources
-    
+
 ### Tutorial
 > These channels focus on tutorials and code alongs.
 
@@ -56,9 +56,10 @@
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 * [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
+* [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 
 
-  
+
 ### Informational
 > These channels focus on information about software development and career advice.
 
@@ -110,6 +111,7 @@
 * [Bisqwit](https://www.youtube.com/user/Bisqwit)
 * [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
 * [commaai archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
+* [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
 
 
 ### Software Entertainment
@@ -150,12 +152,12 @@
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
 
-### Retired 
+### Retired
 > These channels haven't uploaded in the last six months
 
 * [The New Boston](https://www.youtube.com/user/thenewboston/featured)
 * [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
-* [Adam Khoury](https://www.youtube.com/user/flashbuilding) 
+* [Adam Khoury](https://www.youtube.com/user/flashbuilding)
 * [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA)
 * [Dave Xiang](https://www.youtube.com/user/daveXbang)
 * [Sylvester Morgan](https://www.youtube.com/channel/UCVj_s6XbQcwlRMZjeO_7QSw)
@@ -173,4 +175,4 @@
 * [Tyler Moore](https://www.youtube.com/user/Conutant)
 * [Joseph Smith](https://www.youtube.com/user/TheHelpingDevelop)
 * [Naveed Ziarab](https://www.youtube.com/user/Creativitytuts)
-    
+
