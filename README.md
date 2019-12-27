@@ -108,6 +108,7 @@
 * [The Coding Train](https://www.youtube.com/user/shiffman)
 * [Bisqwit](https://www.youtube.com/user/Bisqwit)
 * [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [Andreas Kling](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
 
 
 ### Software Entertainment
