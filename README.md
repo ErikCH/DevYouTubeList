@@ -1,5 +1,5 @@
 # Amazing Developers Of YouTube
-> A curated list of awazing development YouTube channels.
+> A curated list of amazing development YouTube channels.
 
 
 - [Amazing Developers Of YouTube](#amazing-developers-of-youtube)
@@ -55,6 +55,7 @@
 * [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw)
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 * [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+* [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 
 
   
@@ -109,6 +110,7 @@
 * [Bisqwit](https://www.youtube.com/user/Bisqwit)
 * [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
 * [Andreas Kling](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
+* [commaai archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 
 
 ### Software Entertainment
@@ -128,7 +130,7 @@
 
 
 ### Up And Coming
-> These channels have less then a thousand subsribers or less then 10000 views a month
+> These channels have less then a thousand subscribers or less then 10000 views a month
 
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
