@@ -97,6 +97,7 @@
 * [TheHappieCat](https://www.youtube.com/user/TheHappieCat)
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 * [Jesse Whowalter](https://www.youtube.com/user/JesseAtomic)
+* [Sentdex] (https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
 
 
