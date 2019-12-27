@@ -3,7 +3,7 @@
 
 
 - [Amazing Developers Of YouTube](#amazing-developers-of-youtube)
-    #### English
+    ### English
     - [Tutorial](#tutorial)
     - [Informational](#informational)
     - [Live Coding](#live-coding)
@@ -184,6 +184,8 @@
 # Non English
 
 ## Russian
+
+##### Web Development
 * [webDev](www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
 * [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 * [Loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
