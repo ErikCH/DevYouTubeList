@@ -1,4 +1,4 @@
-# Amazing Developers Of YouTube
+# Amazing Developers On YouTube
 > A curated list of amazing development YouTube channels.
 
 
