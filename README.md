@@ -1,4 +1,4 @@
-# Amazing Developers Of YouTube
+# Amazing Developers On YouTube
 > A curated list of amazing development YouTube channels.
 
 
@@ -109,6 +109,7 @@
 * [The Coding Train](https://www.youtube.com/user/shiffman)
 * [Bisqwit](https://www.youtube.com/user/Bisqwit)
 * [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [Andreas Kling](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
 * [commaai archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 
 
