@@ -63,6 +63,7 @@
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
+* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 
 
 
@@ -72,7 +73,7 @@
 * [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87)
 * [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
 * [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
-* [RealToughtCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
+* [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
 * [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 * [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
@@ -104,7 +105,7 @@
 * [Google Students](https://www.youtube.com/user/GoogleStudents)
 * [TheHappieCat](https://www.youtube.com/user/TheHappieCat)
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
-* [Jesse Whowalter](https://www.youtube.com/user/JesseAtomic)
+* [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
 
 
 
