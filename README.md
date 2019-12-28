@@ -12,6 +12,10 @@
     - [Retired](#retired)
     ### Non English
     - [Russian](#russian)
+    
+    ### Italian
+    *[Programmare in Python] (https://www.programmareinpython.it/)
+    *[Carmhack] (https://www.youtube.com/user/TheCarmhack)
 
 
 # Resources
