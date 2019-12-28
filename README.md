@@ -152,6 +152,7 @@
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
+* [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 
 ### Retired
 > These channels haven't uploaded in the last six months
