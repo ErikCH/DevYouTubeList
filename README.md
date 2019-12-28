@@ -3,12 +3,16 @@
 
 
 - [Amazing Developers Of YouTube](#amazing-developers-of-youtube)
+    ### English
     - [Tutorial](#tutorial)
     - [Informational](#informational)
     - [Live Coding](#live-coding)
     - [Software Entertainment](#software-entertainment)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
+    ### Non English
+    - [Russian](#russian)
+
 
 # Resources
 
@@ -177,3 +181,17 @@
 * [Joseph Smith](https://www.youtube.com/user/TheHelpingDevelop)
 * [Naveed Ziarab](https://www.youtube.com/user/Creativitytuts)
 
+# Non English
+
+## Russian
+
+##### Web Development
+* [webDev](www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
+* [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+* [Loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
+* [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
+* [Glo Academy](www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg)
+* [Senior Software Vlogger](https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g)
+* [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
+* [MakeWeb.me](www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
+* [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
