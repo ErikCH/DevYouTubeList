@@ -59,6 +59,7 @@
 * [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw)
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 * [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+* [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
@@ -104,7 +105,6 @@
 * [TheHappieCat](https://www.youtube.com/user/TheHappieCat)
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 * [Jesse Whowalter](https://www.youtube.com/user/JesseAtomic)
-
 
 
 
