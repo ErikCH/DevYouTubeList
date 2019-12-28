@@ -1,17 +1,21 @@
-# Amazing Developers Of YouTube
-> A curated list of awazing development YouTube channels.
+# Amazing Developers On YouTube
+> A curated list of amazing development YouTube channels.
 
 
 - [Amazing Developers Of YouTube](#amazing-developers-of-youtube)
+    ### English
     - [Tutorial](#tutorial)
     - [Informational](#informational)
     - [Live Coding](#live-coding)
     - [Software Entertainment](#software-entertainment)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
-    
+    ### Non English
+    - [Russian](#russian)
+
+
 # Resources
-    
+
 ### Tutorial
 > These channels focus on tutorials and code alongs.
 
@@ -56,10 +60,12 @@
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 * [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 * [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+* [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
+* [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
+* [WPCasts](https://www.youtube.com/c/WPCasts)
 
 
 
-  
 ### Informational
 > These channels focus on information about software development and career advice.
 
@@ -109,6 +115,9 @@
 * [The Coding Train](https://www.youtube.com/user/shiffman)
 * [Bisqwit](https://www.youtube.com/user/Bisqwit)
 * [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [Andreas Kling](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
+* [commaai archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
+* [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
 
 
 ### Software Entertainment
@@ -128,7 +137,7 @@
 
 
 ### Up And Coming
-> These channels have less then a thousand subsribers or less then 10000 views a month
+> These channels have less then a thousand subscribers or less then 10000 views a month
 
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
@@ -148,13 +157,14 @@
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
+* [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 
-### Retired 
+### Retired
 > These channels haven't uploaded in the last six months
 
 * [The New Boston](https://www.youtube.com/user/thenewboston/featured)
 * [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
-* [Adam Khoury](https://www.youtube.com/user/flashbuilding) 
+* [Adam Khoury](https://www.youtube.com/user/flashbuilding)
 * [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA)
 * [Dave Xiang](https://www.youtube.com/user/daveXbang)
 * [Sylvester Morgan](https://www.youtube.com/channel/UCVj_s6XbQcwlRMZjeO_7QSw)
@@ -172,4 +182,18 @@
 * [Tyler Moore](https://www.youtube.com/user/Conutant)
 * [Joseph Smith](https://www.youtube.com/user/TheHelpingDevelop)
 * [Naveed Ziarab](https://www.youtube.com/user/Creativitytuts)
-    
+
+# Non English
+
+## Russian
+
+##### Web Development
+* [webDev](www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
+* [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+* [Loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
+* [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
+* [Glo Academy](www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg)
+* [Senior Software Vlogger](https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g)
+* [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
+* [MakeWeb.me](www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
+* [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
