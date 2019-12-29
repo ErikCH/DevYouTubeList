@@ -136,6 +136,27 @@
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
 
 
+### Competitive Programming & Interview Preparation
+> These channels focuses mainly upon DS & Algorithms along with interview preparation
+
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Errichto 2](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
+* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
+* [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ)
+* [Go Code](https://www.youtube.com/channel/UCoEt3glB4rWSq5zEhSGhUWA)
+* [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
+* [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
+* [VPlanet](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg)
+* [interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
+* [Petr Mitrichev](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
+* [abrar](https://www.youtube.com/channel/UCAjsH3UCJrd-xAfUBsB-dOg)
+* [umnik_team](https://www.youtube.com/channel/UC3-pkjZ8-D4aW8QfaExuMjw)
+* [Jakub Tarnawski](https://www.youtube.com/channel/UCfIh0OerrbEQpZGPq4jjJrQ)
+* [Mikhail Tikhomirov](https://www.youtube.com/channel/UC9LLwpFiNE6fn9PEYtHpOZA)
+* [Bohdan Pryshchenko](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ)
+
 
 ### Up And Coming
 > These channels have less then a thousand subscribers or less then 10000 views a month
