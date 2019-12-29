@@ -119,6 +119,7 @@
 * [Andreas Kling](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
 * [commaai archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 * [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
+* [Alexander Alemayhu](https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ)
 
 
 ### Software Entertainment
