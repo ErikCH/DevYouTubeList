@@ -63,7 +63,7 @@
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
-
+* [Flutter(Official)](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
 
 
 ### Informational
