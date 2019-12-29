@@ -12,6 +12,7 @@
     - [Retired](#retired)
     ### Non English
     - [Russian](#russian)
+    - [Portuguese](#portuguese)
 
 
 # Resources
@@ -199,3 +200,34 @@
 * [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
 * [MakeWeb.me](www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
+
+## Portuguese
+
+* [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
+* [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)
+* [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
+* [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+* [Alura Cursos Online](https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw)
+* [TekZoom](https://www.youtube.com/user/tekzoom)
+* [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
+* [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+* [Daniel Snows](https://www.youtube.com/channel/UCfDenO9v3NpxzE32hAdW36Q)
+* [Código Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg)
+* [Eduardo Pires](https://www.youtube.com/user/headfox)
+* [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+* [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+* [Tiago Matos](https://www.youtube.com/user/tiagomatosweb)
+* [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
+* [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
+* [Bonieky Lacerda](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ)
+* [Node BR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw)
+* [Programador a Bordo](https://www.youtube.com/channel/UC5fWvbBnaFAi2hJlHRmg5kw)
+* [Vida de Programador](https://www.youtube.com/channel/UCW4XS1NWmwOKWA1rmfgmyHQ)
+* [BrazilJS](https://www.youtube.com/user/BrazilJS)
+* [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)
+* [Canal dotNet](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)
+* [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+* [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg/)
+* [Flutterando](https://www.youtube.com/user/jacobaraujo7)
+* [Neto Marin](https://www.youtube.com/user/netomarin)
