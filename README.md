@@ -63,6 +63,8 @@
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
+* [Brackeys](https://www.youtube.com/user/Brackeys)
+* [Sykoo](https://www.youtube.com/user/SykooTV)
 
 
 
