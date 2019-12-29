@@ -19,6 +19,7 @@
 ### Tutorial
 > These channels focus on tutorials and code alongs.
 
+* [A Plus Coding](http://https://www.youtube.com/channel/UC-pLL_SFEm6B9Eeyr-V424Q)
 * [Program With Erik](http://erik.video)
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
