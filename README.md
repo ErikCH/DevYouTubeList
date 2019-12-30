@@ -65,13 +65,16 @@
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
+* [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa/videos)
+* [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA/videos)
+* [Codecourse](https://www.youtube.com/user/phpacademy/videos)
+* [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ/videos)
+* [Classsed](https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg/videos)
+* [Chris Courses](https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA/videos)
 * [Flutter(Official)](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
 * [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
-
-
-
 
 
 ### Informational
@@ -114,7 +117,6 @@
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 * [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
 * [LowLevelJavascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
-
 
 
 ### Live Coding
@@ -190,6 +192,8 @@
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
+* [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
+
 
 ### Retired
 > These channels haven't uploaded in the last six months
@@ -215,6 +219,10 @@
 * [Joseph Smith](https://www.youtube.com/user/TheHelpingDevelop)
 * [Naveed Ziarab](https://www.youtube.com/user/Creativitytuts)
 * [I hate tomatoes](https://www.youtube.com/user/ihatetomatoesblog)
+* [GeekLaunch](https://www.youtube.com/channel/UCPXyziOUs7oglOtmCPhFSKQ/videos)
+* [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ/videos)
+* [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
+* [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
 
 # Non English
 
@@ -230,7 +238,6 @@
 * [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
 * [MakeWeb.me](www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
-
 
 
 ## Hindi  
