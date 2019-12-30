@@ -222,3 +222,25 @@
 * [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
 * [MakeWeb.me](www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
+
+## Turkish
+
+##### Tutorial
+* [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)
+* [Selman Kahya](https://www.youtube.com/user/SirChintzy/videos)
+* [Datai Team](https://www.youtube.com/channel/UCMEWGfU36LxVrML21prwUNA)
+* [Gokay Besken](https://www.youtube.com/user/gokaybeksen)
+* [Devnot Tv](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
+* [Yazılım Bilimi](https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ)
+* [Guray Yildirim](https://www.youtube.com/channel/UC0NFIrReZaqFvUfmI4BImOg)
+* [ProtoTurk](https://www.youtube.com/user/uzmanvideo)
+* [Bilgisayar Kavramları](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
+* [Emrah Yuksel](https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w)
+* [Engin Demirog](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+* [Code Cube](https://www.youtube.com/channel/UC-EYPnTYleFrIPT9bpMCbQQ)
+* [Makine Ogrenmesi](https://www.youtube.com/channel/UCvaBuYQM07ZYa4NfZ3hRzvw)
+* [Emrah Oz](https://www.youtube.com/user/emr550m/)
+* [Murat Yucedag](https://www.youtube.com/user/YazilimHerYerde)
+* [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
+* [Sadik Turan](https://www.youtube.com/user/sadikturan41)
+* [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
