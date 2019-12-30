@@ -280,3 +280,12 @@
 
 ## Italian
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
+
+## Korean
+* [생활코딩](https://www.youtube.com/user/egoing2)
+* [포프TV](https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ)
+* [엔지니어대한민국](https://www.youtube.com/channel/UCWMAh9cSkEn8v42YRO90BHA)
+* [조코딩 JoCoding](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg)
+* [동빈나](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
+* [알고리즘 투게더 with 거니](https://www.youtube.com/channel/UCO7g158NWgLyn98z8v3zduA)
