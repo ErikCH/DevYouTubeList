@@ -124,7 +124,7 @@
 ### Software Entertainment
 > These channels are focused on entertainment and are more loosely associated with software development
 
-* [Michael Reevese](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
+* [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 * [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
 * [CodeParade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
