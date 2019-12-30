@@ -15,6 +15,7 @@
     - [Hindi](#hindi)
     - [Turkish](#turkish)
     - [Italian](#italian)
+    - [Brazilian](#brazilian)
 
 
 
@@ -280,3 +281,11 @@
 
 ## Italian
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
+
+## Brazilian
+* [BrazilJS](https://www.youtube.com/user/BrazilJS)
+* [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+* [DevPrimata](https://www.youtube.com/channel/UCesuGTDZsIt1Z9NfiSGE3yg)
+* [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
