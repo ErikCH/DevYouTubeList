@@ -276,6 +276,7 @@
 * [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
 * [Sadik Turan](https://www.youtube.com/user/sadikturan41)
 * [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+* [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 
 
 ## Italian
