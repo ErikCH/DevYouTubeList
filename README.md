@@ -12,6 +12,8 @@
     - [Retired](#retired)
     ### Non English
     - [Russian](#russian)
+    - [Hindi](#hindi)
+    - [Turkish}(#turkish)
 
 
 # Resources
@@ -229,6 +231,21 @@
 * [MakeWeb.me](www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
 
+
+
+## Hindi  
+
+* [Mentorsadda](https://www.youtube.com/user/Mentorsadda)
+* [edureka! Hindi](https://www.youtube.com/channel/UCywyZ4r4FTKExrPl9rf-ggw)
+* [Websofttutorials](https://www.youtube.com/user/websofttutorials)
+* [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+* [C++ by saurabh shukla sir](https://www.youtube.com/channel/UCD-scAE4ju78dld1kpcsQfQ)
+* [Java by saurabh shukla sir](https://www.youtube.com/channel/UCGR3vMYA20JJDQvGFccujdA)
+* [Free Programmer](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
+* [Durgasoft solutions](https://www.youtube.com/user/durgasoftware)
+* [Technical Suneja](https://www.youtube.com/channel/UCHIbErciyS3Hs0kjAz-at5Q)
+   
+
 ## Turkish
 
 ##### Tutorial
@@ -250,3 +267,4 @@
 * [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
 * [Sadik Turan](https://www.youtube.com/user/sadikturan41)
 * [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+
