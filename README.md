@@ -13,7 +13,7 @@
     ### Non English
     - [Russian](#russian)
     - [Hindi](#hindi)
-    - [Turkish}(#turkish)
+    - [Turkish](#turkish)
 
 
 # Resources
