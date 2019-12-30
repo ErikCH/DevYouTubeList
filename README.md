@@ -63,8 +63,12 @@
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
-
-
+* [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa/videos)
+* [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA/videos)
+* [Codecourse](https://www.youtube.com/user/phpacademy/videos)
+* [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ/videos)
+* [Classsed](https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg/videos)
+* [Chris Courses](https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA/videos)
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -107,8 +111,6 @@
 * [Jesse Whowalter](https://www.youtube.com/user/JesseAtomic)
 * [LowLevelJavascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
 
-
-
 ### Live Coding
 > These channels live code.
 
@@ -135,8 +137,6 @@
 * [Life of Luba](https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
 
-
-
 ### Up And Coming
 > These channels have less then a thousand subscribers or less then 10000 views a month
 
@@ -159,6 +159,7 @@
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
+* [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
 
 ### Retired
 > These channels haven't uploaded in the last six months
@@ -184,6 +185,10 @@
 * [Joseph Smith](https://www.youtube.com/user/TheHelpingDevelop)
 * [Naveed Ziarab](https://www.youtube.com/user/Creativitytuts)
 * [I hate tomatoes](https://www.youtube.com/user/ihatetomatoesblog)
+* [GeekLaunch](https://www.youtube.com/channel/UCPXyziOUs7oglOtmCPhFSKQ/videos)
+* [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ/videos)
+* [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
+* [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
 
 # Non English
 
