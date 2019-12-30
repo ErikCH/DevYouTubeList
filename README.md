@@ -15,6 +15,7 @@
     - [Hindi](#hindi)
     - [Turkish](#turkish)
     - [Italian](#italian)
+    - [Korean](#korean)
 
 
 
