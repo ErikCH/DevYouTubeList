@@ -280,3 +280,7 @@
 
 ## Italian
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
+
+## French
+* [Grafikart](https://www.youtube.com/user/grafikarttv)
