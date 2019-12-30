@@ -140,6 +140,7 @@
 ### Up And Coming
 > These channels have less then a thousand subscribers or less then 10000 views a month
 
+* [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
 * [Pentacode](https://www.youtube.com/channel/UCJtWu3jKkIXiY3WUBb7qwpw)
