@@ -172,7 +172,7 @@
 
 
 ### Up And Coming
-> These channels have less then a thousand subscribers or less then 10000 views a month.
+> These channels have less than a thousand subscribers or less than 10000 views a month.
 
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
