@@ -203,4 +203,14 @@
 
 
 ## Hindi  
+* [Mentorsadda](https://www.youtube.com/user/Mentorsadda)
+* [edureka! Hindi](https://www.youtube.com/channel/UCywyZ4r4FTKExrPl9rf-ggw)
+* [Websofttutorials](https://www.youtube.com/user/websofttutorials)
+* [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+* [C++ by saurabh shukla sir](https://www.youtube.com/channel/UCD-scAE4ju78dld1kpcsQfQ)
+* [Java by saurabh shukla sir](https://www.youtube.com/channel/UCGR3vMYA20JJDQvGFccujdA)
+* [Free Programmer](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
+* [Durgasoft solutions](https://www.youtube.com/user/durgasoftware)
+* [Technical Suneja](https://www.youtube.com/channel/UCHIbErciyS3Hs0kjAz-at5Q)
+   
 
