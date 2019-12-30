@@ -15,6 +15,7 @@
     - [Hindi](#hindi)
     - [Turkish](#turkish)
     - [Italian](#italian)
+    - [Bengali](#bengali)
 
 
 
@@ -280,3 +281,6 @@
 
 ## Italian
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
+## Bengali
+* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
