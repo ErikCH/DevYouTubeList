@@ -13,6 +13,7 @@
     ### Non English
     - [Russian](#russian)
     - [Hindi](#hindi)
+    - [Turkish}(#turkish)
 
 
 # Resources
@@ -64,6 +65,12 @@
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
+* [Flutter(Official)](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+* [Brackeys](https://www.youtube.com/user/Brackeys)
+* [Sykoo](https://www.youtube.com/user/SykooTV)
+* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+
+
 
 
 
@@ -73,7 +80,7 @@
 * [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87)
 * [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
 * [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
-* [RealToughtCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
+* [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
 * [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 * [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
@@ -105,7 +112,7 @@
 * [Google Students](https://www.youtube.com/user/GoogleStudents)
 * [TheHappieCat](https://www.youtube.com/user/TheHappieCat)
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
-* [Jesse Whowalter](https://www.youtube.com/user/JesseAtomic)
+* [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
 * [LowLevelJavascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
 
 
@@ -120,12 +127,13 @@
 * [Andreas Kling](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
 * [commaai archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 * [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
+* [Alexander Alemayhu](https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ)
 
 
 ### Software Entertainment
 > These channels are focused on entertainment and are more loosely associated with software development
 
-* [Michael Reevese](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
+* [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 * [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
 * [CodeParade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
@@ -137,10 +145,32 @@
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
 
 
+### Competitive Programming & Interview Preparation
+> These channels focuses mainly upon DS & Algorithms along with interview preparation
+
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Errichto 2](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
+* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
+* [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ)
+* [Go Code](https://www.youtube.com/channel/UCoEt3glB4rWSq5zEhSGhUWA)
+* [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
+* [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
+* [VPlanet](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg)
+* [interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
+* [Petr Mitrichev](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
+* [abrar](https://www.youtube.com/channel/UCAjsH3UCJrd-xAfUBsB-dOg)
+* [umnik_team](https://www.youtube.com/channel/UC3-pkjZ8-D4aW8QfaExuMjw)
+* [Jakub Tarnawski](https://www.youtube.com/channel/UCfIh0OerrbEQpZGPq4jjJrQ)
+* [Mikhail Tikhomirov](https://www.youtube.com/channel/UC9LLwpFiNE6fn9PEYtHpOZA)
+* [Bohdan Pryshchenko](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ)
+
 
 ### Up And Coming
 > These channels have less then a thousand subscribers or less then 10000 views a month
 
+* [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
 * [Pentacode](https://www.youtube.com/channel/UCJtWu3jKkIXiY3WUBb7qwpw)
@@ -202,7 +232,9 @@
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
 
 
+
 ## Hindi  
+
 * [Mentorsadda](https://www.youtube.com/user/Mentorsadda)
 * [edureka! Hindi](https://www.youtube.com/channel/UCywyZ4r4FTKExrPl9rf-ggw)
 * [Websofttutorials](https://www.youtube.com/user/websofttutorials)
@@ -213,4 +245,26 @@
 * [Durgasoft solutions](https://www.youtube.com/user/durgasoftware)
 * [Technical Suneja](https://www.youtube.com/channel/UCHIbErciyS3Hs0kjAz-at5Q)
    
+
+## Turkish
+
+##### Tutorial
+* [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)
+* [Selman Kahya](https://www.youtube.com/user/SirChintzy/videos)
+* [Datai Team](https://www.youtube.com/channel/UCMEWGfU36LxVrML21prwUNA)
+* [Gokay Besken](https://www.youtube.com/user/gokaybeksen)
+* [Devnot Tv](https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA)
+* [Yazılım Bilimi](https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ)
+* [Guray Yildirim](https://www.youtube.com/channel/UC0NFIrReZaqFvUfmI4BImOg)
+* [ProtoTurk](https://www.youtube.com/user/uzmanvideo)
+* [Bilgisayar Kavramları](https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g)
+* [Emrah Yuksel](https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w)
+* [Engin Demirog](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+* [Code Cube](https://www.youtube.com/channel/UC-EYPnTYleFrIPT9bpMCbQQ)
+* [Makine Ogrenmesi](https://www.youtube.com/channel/UCvaBuYQM07ZYa4NfZ3hRzvw)
+* [Emrah Oz](https://www.youtube.com/user/emr550m/)
+* [Murat Yucedag](https://www.youtube.com/user/YazilimHerYerde)
+* [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
+* [Sadik Turan](https://www.youtube.com/user/sadikturan41)
+* [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 
