@@ -15,6 +15,7 @@
     - [Hindi](#hindi)
     - [Turkish](#turkish)
     - [Italian](#italian)
+    - [Chinese](#chinese)
 
 
 
@@ -280,3 +281,7 @@
 
 ## Italian
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
+## Chinese
+
+* [Go 夜读](https://www.youtube.com/channel/UCZwrjDu5Rf6O_CX2CVx7n8Q)
