@@ -12,6 +12,7 @@
     - [Retired](#retired)
     ### Non English
     - [Russian](#russian)
+    - [Hindi](#hindi)
 
 
 # Resources
@@ -199,3 +200,7 @@
 * [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
 * [MakeWeb.me](www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
+
+
+## Hindi  
+
