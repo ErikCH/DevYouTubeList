@@ -78,6 +78,7 @@
 * [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+* [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
 
 
 ### Informational
