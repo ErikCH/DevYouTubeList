@@ -14,6 +14,8 @@
     - [Russian](#russian)
     - [Hindi](#hindi)
     - [Turkish](#turkish)
+    - [Italian](#italian)
+
 
 
 # Resources
@@ -275,3 +277,6 @@
 * [Sadik Turan](https://www.youtube.com/user/sadikturan41)
 * [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 
+
+## Italian
+* [Carmhack](https://www.youtube.com/user/TheCarmhack)
