@@ -82,6 +82,7 @@
 * [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+* [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
 
 
 ### Informational
@@ -291,6 +292,7 @@
 
 
 ## French
+
 * [Grafikart](https://www.youtube.com/user/grafikarttv)
 
 
@@ -337,5 +339,4 @@
 * [In.Dev](https://www.youtube.com/channel/UCbskGJ6VHC_2AjHfQsp4EkQ)
 * [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
 * [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
-
 
