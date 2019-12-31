@@ -15,6 +15,14 @@
     - [Hindi](#hindi)
     - [Turkish](#turkish)
     - [Italian](#italian)
+    - [Bengali](#bengali)
+    - [Brazilian](#brazilian)
+    - [Korean](#korean)
+    - [Chinese](#chinese)
+    - [Hebrew](#hebrew)
+    - [French](#french)
+    - [Spanish](#spanish)
+
 
 
 
@@ -78,6 +86,10 @@
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Mtech viral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
+* [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
+
+
 
 
 ### Informational
@@ -133,10 +145,11 @@
 * [commaai archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 * [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
 * [Alexander Alemayhu](https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ)
+* [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
 
 
 ### Software Entertainment
-> These channels are focused on entertainment and are more loosely associated with software development
+> These channels are focused on entertainment and are more loosely associated with software development.
 
 * [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
@@ -151,7 +164,7 @@
 
 
 ### Competitive Programming & Interview Preparation
-> These channels focuses mainly upon DS & Algorithms along with interview preparation
+> These channels focuses mainly upon DS & Algorithms along with interview preparation.
 
 * [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
@@ -173,7 +186,7 @@
 
 
 ### Up And Coming
-> These channels have less then a thousand subscribers or less then 10000 views a month
+> These channels have less than a thousand subscribers or less than 10000 views a month.
 
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
@@ -199,7 +212,7 @@
 
 
 ### Retired
-> These channels haven't uploaded in the last six months
+> These channels haven't uploaded in the last six months.
 
 * [The New Boston](https://www.youtube.com/user/thenewboston/featured)
 * [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
@@ -236,10 +249,10 @@
 * [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 * [Loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
 * [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
-* [Glo Academy](www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg)
+* [Glo Academy](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg)
 * [Senior Software Vlogger](https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g)
 * [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
-* [MakeWeb.me](www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
+* [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
 
 
@@ -277,7 +290,70 @@
 * [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
 * [Sadik Turan](https://www.youtube.com/user/sadikturan41)
 * [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+* [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+* [Eser Ozvataf](https://youtube.com/EserOzvataf)
 
 
 ## Italian
+
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
+
+## Bengali
+* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+
+
+## Spanish
+
+* [BettaTech](https://www.youtube.com/c/BettaTech)
+
+
+## French
+
+* [Grafikart](https://www.youtube.com/user/grafikarttv)
+
+
+## Brazilian
+
+* [BrazilJS](https://www.youtube.com/user/BrazilJS)
+* [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+* [DevPrimata](https://www.youtube.com/channel/UCesuGTDZsIt1Z9NfiSGE3yg)
+* [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+* [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
+
+
+## Korean
+
+* [생활코딩](https://www.youtube.com/user/egoing2)
+* [포프TV](https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ)
+* [엔지니어대한민국](https://www.youtube.com/channel/UCWMAh9cSkEn8v42YRO90BHA)
+* [조코딩 JoCoding](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg)
+* [동빈나](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
+* [알고리즘 투게더 with 거니](https://www.youtube.com/channel/UCO7g158NWgLyn98z8v3zduA)
+* [EO](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q)
+* [Teccboi Wonie](https://www.youtube.com/channel/UC0uDM1xZMNBAoW2xnzhAQ7g)
+* [김왼손의 왼손코딩](https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g)
+* [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
+* [NHN TOAST](https://www.youtube.com/channel/UC982FhzZx87lIWCimFiry_w)
+* [SQL전문가 정미나](https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw)
+* [빵굽는개발자 빵형](https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ)
+* [권오흠](https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA)
+
+
+## Chinese
+
+* [Go 夜读](https://www.youtube.com/channel/UCZwrjDu5Rf6O_CX2CVx7n8Q)
+
+## Hebrew
+
+* [GoCode](https://www.youtube.com/c/GoCodeSderot)
+* [JavaScript Israel](https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g)
+* [Fullstack Developers Israel](https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A)
+* [Negev Web Developers](https://www.youtube.com/channel/UCeb23koM86s-w9534jdRxIQ)
+* [Vuejs Israel](https://www.youtube.com/channel/UC7Ne4vqQa7nldgA0o1fbqKg)
+* [Hodash Dev](https://www.youtube.com/channel/UCRxPTwnAxtowaaHLwtjcKOQ)
+* [In.Dev](https://www.youtube.com/channel/UCbskGJ6VHC_2AjHfQsp4EkQ)
+* [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
+* [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
+
