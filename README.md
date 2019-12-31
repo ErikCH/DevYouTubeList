@@ -15,12 +15,14 @@
     - [Hindi](#hindi)
     - [Turkish](#turkish)
     - [Italian](#italian)
+    - [Bengali](#bengali)
     - [Brazilian](#brazilian)
     - [Korean](#korean)
     - [Chinese](#chinese)
     - [Hebrew](#hebrew)
     - [French](#french)
     - [Spanish](#spanish)
+
 
 
 
@@ -290,6 +292,10 @@
 ## Italian
 
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
+
+## Bengali
+* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
 
 
 ## Spanish
