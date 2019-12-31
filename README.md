@@ -144,7 +144,7 @@
 
 
 ### Software Entertainment
-> These channels are focused on entertainment and are more loosely associated with software development
+> These channels are focused on entertainment and are more loosely associated with software development.
 
 * [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
@@ -159,7 +159,7 @@
 
 
 ### Competitive Programming & Interview Preparation
-> These channels focuses mainly upon DS & Algorithms along with interview preparation
+> These channels focuses mainly upon DS & Algorithms along with interview preparation.
 
 * [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
@@ -181,7 +181,7 @@
 
 
 ### Up And Coming
-> These channels have less then a thousand subscribers or less then 10000 views a month
+> These channels have less than a thousand subscribers or less than 10000 views a month.
 
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
@@ -207,7 +207,7 @@
 
 
 ### Retired
-> These channels haven't uploaded in the last six months
+> These channels haven't uploaded in the last six months.
 
 * [The New Boston](https://www.youtube.com/user/thenewboston/featured)
 * [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
