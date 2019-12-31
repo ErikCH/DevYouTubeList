@@ -19,9 +19,7 @@
     - [Korean](#korean)
     - [Chinese](#chinese)
     - [Hebrew](#hebrew)
-
-
-
+    - [French](#french)
 
 
 
@@ -292,6 +290,9 @@
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
 
 
+## French
+* [Grafikart](https://www.youtube.com/user/grafikarttv)
+
 
 ## Brazilian
 
@@ -301,6 +302,7 @@
 * [DevPrimata](https://www.youtube.com/channel/UCesuGTDZsIt1Z9NfiSGE3yg)
 * [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
+
 
 ## Korean
 
@@ -335,4 +337,5 @@
 * [In.Dev](https://www.youtube.com/channel/UCbskGJ6VHC_2AjHfQsp4EkQ)
 * [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
 * [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
+
 
