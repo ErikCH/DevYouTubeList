@@ -16,6 +16,13 @@
     - [Turkish](#turkish)
     - [Italian](#italian)
     - [Bengali](#bengali)
+    - [Brazilian](#brazilian)
+    - [Korean](#korean)
+    - [Chinese](#chinese)
+    - [Hebrew](#hebrew)
+    - [French](#french)
+    - [Spanish](#spanish)
+
 
 
 
@@ -78,6 +85,7 @@
 * [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+* [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
 
 
 ### Informational
@@ -277,10 +285,70 @@
 * [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
 * [Sadik Turan](https://www.youtube.com/user/sadikturan41)
 * [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+* [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+* [Eser Ozvataf](https://youtube.com/EserOzvataf)
 
 
 ## Italian
+
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
 
 ## Bengali
 * [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+
+
+## Spanish
+
+* [BettaTech](https://www.youtube.com/c/BettaTech)
+
+
+## French
+
+* [Grafikart](https://www.youtube.com/user/grafikarttv)
+
+
+## Brazilian
+
+* [BrazilJS](https://www.youtube.com/user/BrazilJS)
+* [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+* [DevPrimata](https://www.youtube.com/channel/UCesuGTDZsIt1Z9NfiSGE3yg)
+* [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+* [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
+
+
+## Korean
+
+* [생활코딩](https://www.youtube.com/user/egoing2)
+* [포프TV](https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ)
+* [엔지니어대한민국](https://www.youtube.com/channel/UCWMAh9cSkEn8v42YRO90BHA)
+* [조코딩 JoCoding](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg)
+* [동빈나](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
+* [알고리즘 투게더 with 거니](https://www.youtube.com/channel/UCO7g158NWgLyn98z8v3zduA)
+* [EO](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q)
+* [Teccboi Wonie](https://www.youtube.com/channel/UC0uDM1xZMNBAoW2xnzhAQ7g)
+* [김왼손의 왼손코딩](https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g)
+* [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
+* [NHN TOAST](https://www.youtube.com/channel/UC982FhzZx87lIWCimFiry_w)
+* [SQL전문가 정미나](https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw)
+* [빵굽는개발자 빵형](https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ)
+* [권오흠](https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA)
+
+
+## Chinese
+
+* [Go 夜读](https://www.youtube.com/channel/UCZwrjDu5Rf6O_CX2CVx7n8Q)
+
+## Hebrew
+
+* [GoCode](https://www.youtube.com/c/GoCodeSderot)
+* [JavaScript Israel](https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g)
+* [Fullstack Developers Israel](https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A)
+* [Negev Web Developers](https://www.youtube.com/channel/UCeb23koM86s-w9534jdRxIQ)
+* [Vuejs Israel](https://www.youtube.com/channel/UC7Ne4vqQa7nldgA0o1fbqKg)
+* [Hodash Dev](https://www.youtube.com/channel/UCRxPTwnAxtowaaHLwtjcKOQ)
+* [In.Dev](https://www.youtube.com/channel/UCbskGJ6VHC_2AjHfQsp4EkQ)
+* [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
+* [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
+
