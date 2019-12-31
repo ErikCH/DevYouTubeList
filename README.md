@@ -15,7 +15,9 @@
     - [Hindi](#hindi)
     - [Turkish](#turkish)
     - [Italian](#italian)
+    - [Chinese](#chinese)
     - [Hebrew](#hebrew)
+
 
 
 
@@ -285,6 +287,11 @@
 ## Italian
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
 
+
+## Chinese
+
+* [Go 夜读](https://www.youtube.com/channel/UCZwrjDu5Rf6O_CX2CVx7n8Q)
+
 ## Hebrew
 * [GoCode](https://www.youtube.com/c/GoCodeSderot)
 * [JavaScript Israel](https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g)
@@ -295,3 +302,4 @@
 * [In.Dev](https://www.youtube.com/channel/UCbskGJ6VHC_2AjHfQsp4EkQ)
 * [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
 * [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
+
