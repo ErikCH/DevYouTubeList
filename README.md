@@ -16,6 +16,10 @@
     - [Turkish](#turkish)
     - [Italian](#italian)
     - [Korean](#korean)
+    - [Chinese](#chinese)
+    - [Hebrew](#hebrew)
+
+
 
 
 
@@ -277,6 +281,8 @@
 * [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
 * [Sadik Turan](https://www.youtube.com/user/sadikturan41)
 * [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
+* [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
+* [Eser Ozvataf](https://youtube.com/EserOzvataf)
 
 
 ## Italian
@@ -284,6 +290,7 @@
 
 
 ## Korean
+
 * [생활코딩](https://www.youtube.com/user/egoing2)
 * [포프TV](https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ)
 * [엔지니어대한민국](https://www.youtube.com/channel/UCWMAh9cSkEn8v42YRO90BHA)
@@ -298,3 +305,22 @@
 * [SQL전문가 정미나](https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw)
 * [빵굽는개발자 빵형](https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ)
 * [권오흠](https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA)
+
+
+## Chinese
+
+* [Go 夜读](https://www.youtube.com/channel/UCZwrjDu5Rf6O_CX2CVx7n8Q)
+
+## Hebrew
+
+* [GoCode](https://www.youtube.com/c/GoCodeSderot)
+* [JavaScript Israel](https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g)
+* [Fullstack Developers Israel](https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A)
+* [Negev Web Developers](https://www.youtube.com/channel/UCeb23koM86s-w9534jdRxIQ)
+* [Vuejs Israel](https://www.youtube.com/channel/UC7Ne4vqQa7nldgA0o1fbqKg)
+* [Hodash Dev](https://www.youtube.com/channel/UCRxPTwnAxtowaaHLwtjcKOQ)
+* [In.Dev](https://www.youtube.com/channel/UCbskGJ6VHC_2AjHfQsp4EkQ)
+* [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
+* [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
+
+
