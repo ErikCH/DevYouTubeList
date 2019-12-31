@@ -20,6 +20,7 @@
     - [Chinese](#chinese)
     - [Hebrew](#hebrew)
     - [French](#french)
+    - [Spanish](#spanish)
 
 
 
@@ -289,6 +290,10 @@
 ## Italian
 
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+
+
+## Spanish
+* [BettaTech] (https://www.youtube.com/c/BettaTech)
 
 
 ## French
