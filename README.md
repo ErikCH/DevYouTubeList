@@ -293,7 +293,8 @@
 
 
 ## Spanish
-* [BettaTech] (https://www.youtube.com/c/BettaTech)
+
+* [BettaTech](https://www.youtube.com/c/BettaTech)
 
 
 ## French
