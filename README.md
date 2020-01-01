@@ -132,6 +132,7 @@
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 * [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
 * [LowLevelJavascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
+* [Computerphile](https://www.youtube.com/user/Computerphile)
 
 
 ### Live Coding
