@@ -95,7 +95,6 @@
 ### Informational
 > These channels focus on information about software development and career advice.
 
-* [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
 * [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87)
 * [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
 * [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
@@ -133,6 +132,7 @@
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 * [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
 * [LowLevelJavascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
+* [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
 
 
 ### Live Coding
