@@ -359,4 +359,8 @@
 * [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
 
 ## Arabic
+##### Web Development
 
+* [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
+* [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
+* [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
