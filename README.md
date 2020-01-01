@@ -231,3 +231,5 @@
 * [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg/)
 * [Flutterando](https://www.youtube.com/user/jacobaraujo7)
 * [Neto Marin](https://www.youtube.com/user/netomarin)
+* [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
+* [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
