@@ -8,7 +8,7 @@
     - [Informational](#informational)
     - [Live Coding](#live-coding)
     - [Software Entertainment](#software-entertainment)
-    - [#competitive-programming-&-interview-preparation]
+    - [Competitive Programming & Interview Preperation](#competitive-programming-&-interview-preparation)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
     ### Non English
