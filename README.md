@@ -23,6 +23,7 @@
     - [French](#french)
     - [Spanish](#spanish)
     - [Indonesian](#indonesian)
+    - [Arabic](#arabic)
 
 
 
@@ -89,7 +90,9 @@
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Mtech viral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
 * [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
-
+* [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg)
+* [Jeremy Howard](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
+* [Codepunk](https://www.youtube.com/c/codepunk)
 
 
 
@@ -133,6 +136,11 @@
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 * [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
 * [LowLevelJavascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
+* [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
+* [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
+* [Computerphile](https://www.youtube.com/user/Computerphile)
 
 
 ### Live Coding
@@ -162,6 +170,7 @@
 * [Paola from TOKYO](https://www.youtube.com/channel/UCixD9UbKvDxzGNiPC_fgHyA)
 * [Life of Luba](https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
 
 ### Competitive Programming & Interview Preparation
@@ -184,6 +193,13 @@
 * [Jakub Tarnawski](https://www.youtube.com/channel/UCfIh0OerrbEQpZGPq4jjJrQ)
 * [Mikhail Tikhomirov](https://www.youtube.com/channel/UC9LLwpFiNE6fn9PEYtHpOZA)
 * [Bohdan Pryshchenko](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ)
+* [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
+* [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+* [Keep On Coding](https://www.youtube.com/channel/UCsLo154Krjwhoz8W00N8ItA)
+* [Anthony Sistilli](https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg)
+* [Tech Dummies - Narendra L](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+* [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
+
 
 
 ### Up And Coming
@@ -240,7 +256,7 @@
 * [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ/videos)
 * [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
 * [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
-
+* [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 # Non English
 
 ## Russian
@@ -302,6 +318,9 @@
 
 ## Bengali
 * [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+* [Dimik Computing](https://www.youtube.com/channel/UC29OOZhABBZ_qqQKkcwpIuQ)
+* [Tamim Shahriar](https://www.youtube.com/channel/UCFsbfRphhQfPFJrwKb7s3JA)
+* [Machine Learning। মেশিন লার্নিং । হাতে কলমে](https://www.youtube.com/channel/UC4RrCd2anEWtZJr9_wX76kA)
 
 
 ## Spanish
@@ -358,6 +377,16 @@
 * [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
 * [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
 
+
 ## Indonesian
 
 * [Taman Kode-Kode](https://www.youtube.com/c/tamankodekode)
+
+
+## Arabic
+##### Web Development
+
+* [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
+* [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
+* [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
+
