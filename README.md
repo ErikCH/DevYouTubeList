@@ -134,11 +134,11 @@
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 * [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
 * [LowLevelJavascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
+* [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
 * [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
-
 
 
 ### Live Coding
