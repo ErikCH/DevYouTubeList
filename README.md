@@ -90,9 +90,7 @@
 * [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
 * [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg)
 * [Jeremy Howard](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
-
-
-
+* [Codepunk](https://www.youtube.com/c/codepunk)
 
 
 
@@ -139,7 +137,7 @@
 * [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
-
+* [Computerphile](https://www.youtube.com/user/Computerphile)
 
 
 
@@ -170,6 +168,7 @@
 * [Paola from TOKYO](https://www.youtube.com/channel/UCixD9UbKvDxzGNiPC_fgHyA)
 * [Life of Luba](https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
 
 ### Competitive Programming & Interview Preparation
@@ -255,7 +254,7 @@
 * [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ/videos)
 * [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
 * [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
-
+* [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 # Non English
 
 ## Russian
