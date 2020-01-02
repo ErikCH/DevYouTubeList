@@ -8,7 +8,7 @@
     - [Informational](#informational)
     - [Live Coding](#live-coding)
     - [Software Entertainment](#software-entertainment)
-    - [Competitive Programming & Interview Preperation](#competitive-programming-&-interview-preparation)
+    - [Competitive Programming & Interview Preperation](#competitive-programming-and-interview-preparation)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
     ### Non English
@@ -173,7 +173,7 @@
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
 
-### Competitive Programming & Interview Preparation
+### Competitive Programming And Interview Preparation
 > These channels focuses mainly upon DS & Algorithms along with interview preparation.
 
 * [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
