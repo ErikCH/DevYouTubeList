@@ -358,6 +358,6 @@
 * [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
 * [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
 
-## Indonesian (Bahasa)
+## Indonesian
 
 * [Taman Kode-Kode](https://www.youtube.com/c/tamankodekode)
