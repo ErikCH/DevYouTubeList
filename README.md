@@ -420,4 +420,6 @@
 * [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
 * [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
 * [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
+* [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
+* [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
 
