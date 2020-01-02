@@ -27,7 +27,6 @@
 
 
 
-
 # Resources
 
 ### Tutorial
@@ -90,6 +89,7 @@
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Mtech viral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
 * [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
+* [I Am Tim Corey](https://www.youtube.com/user/IAmTimCorey)
 * [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg)
 * [Jeremy Howard](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
 * [Codepunk](https://www.youtube.com/c/codepunk)
@@ -141,7 +141,6 @@
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
-
 
 ### Live Coding
 > These channels live code.
@@ -201,6 +200,27 @@
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
 
 
+### Competitive Programming & Interview Preparation
+> These channels focuses mainly upon DS & Algorithms along with interview preparation.
+
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Errichto 2](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
+* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
+* [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ)
+* [Go Code](https://www.youtube.com/channel/UCoEt3glB4rWSq5zEhSGhUWA)
+* [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
+* [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
+* [VPlanet](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg)
+* [interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
+* [Petr Mitrichev](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
+* [abrar](https://www.youtube.com/channel/UCAjsH3UCJrd-xAfUBsB-dOg)
+* [umnik_team](https://www.youtube.com/channel/UC3-pkjZ8-D4aW8QfaExuMjw)
+* [Jakub Tarnawski](https://www.youtube.com/channel/UCfIh0OerrbEQpZGPq4jjJrQ)
+* [Mikhail Tikhomirov](https://www.youtube.com/channel/UC9LLwpFiNE6fn9PEYtHpOZA)
+* [Bohdan Pryshchenko](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ)
+
 
 ### Up And Coming
 > These channels have less than a thousand subscribers or less than 10000 views a month.
@@ -257,6 +277,8 @@
 * [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
 * [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
 * [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+
+
 # Non English
 
 ## Russian
@@ -326,6 +348,8 @@
 ## Spanish
 
 * [BettaTech](https://www.youtube.com/c/BettaTech)
+* [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
+* [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
 
 
 ## French
@@ -341,6 +365,32 @@
 * [DevPrimata](https://www.youtube.com/channel/UCesuGTDZsIt1Z9NfiSGE3yg)
 * [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
+* [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
+* [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)
+* [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
+* [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+* [Alura Cursos Online](https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw)
+* [TekZoom](https://www.youtube.com/user/tekzoom)
+* [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
+* [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+* [Daniel Snows](https://www.youtube.com/channel/UCfDenO9v3NpxzE32hAdW36Q)
+* [Código Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg)
+* [Eduardo Pires](https://www.youtube.com/user/headfox)
+* [Tiago Matos](https://www.youtube.com/user/tiagomatosweb)
+* [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
+* [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
+* [Bonieky Lacerda](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ)
+* [Node BR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw)
+* [Programador a Bordo](https://www.youtube.com/channel/UC5fWvbBnaFAi2hJlHRmg5kw)
+* [Vida de Programador](https://www.youtube.com/channel/UCW4XS1NWmwOKWA1rmfgmyHQ)
+* [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)
+* [Canal dotNet](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)
+* [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+* [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg/)
+* [Flutterando](https://www.youtube.com/user/jacobaraujo7)
+* [Neto Marin](https://www.youtube.com/user/netomarin)
+* [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
+* [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
 
 
 ## Korean
@@ -359,6 +409,7 @@
 * [SQL전문가 정미나](https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw)
 * [빵굽는개발자 빵형](https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ)
 * [권오흠](https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA)
+
 
 
 ## Chinese
