@@ -438,15 +438,39 @@
 * [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
 * [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
 
-#This list is subject to change so these will be adjusted accordingly
-
-    Web Development
-    * Coder's Tape ; PHP
-    * techsith ; JavaScript
-    * Programming with Peter ; PHP
 
 
+# This list is subject to change so these will be adjusted accordingly
+
+### "Web Development"
     
-    Machine Learning
-    Game Development
-    Interview Preperation
+* [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg) : PHP
+* [techsith](https://www.youtube.com/user/techSithTube) : JavaScript
+* [Programming with Peter](https://www.youtube.com/channel/UCqqQLR77gh9nB-HExBYVIoQ) : PHP
+    
+### "Machine Learning"
+
+* [CrashCourse](https://www.youtube.com/user/crashcourse) : AI
+* [The Ape Machine](https://www.youtube.com/channel/UCLQC-Ocea1wFl3PgsSIPR0g) : AI
+
+### "C/C++ Development"
+
+* [The Cherno](https://www.youtube.com/user/TheChernoProject) : C++/Visual Studio
+* [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) : C++/Visual Studio
+* [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) : C/Rust/Python/JavaScript/Unity
+* [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A) : C++/JUCE
+* [Barry Brown](https://www.youtube.com/user/profbbrown) : Python/Java/SQL/C
+* [CppNuts](https://www.youtube.com/user/MrRupeshyadav/playlists) : C++/Advance C++
+* [Coding Walnut](https://www.youtube.com/channel/UCcPJIQLMIpOqZv0wt-FFQsw) : C (Up And Coming)
+
+### "Interview Preperation"
+
+* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ) : competitive Programming
+* [Jake Wright](https://www.youtube.com/user/jaketvee) : competitive Programming
+
+### "Informative"
+    
+* [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA) : Security
+* [JAMstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg) : Tech Conference
+* [CHM Tech](https://www.youtube.com/user/hotmonkey000) : Miscellaneous
+* [Two Minute Papers](https://www.youtube.com/user/keeroyz) : PHD Papers
