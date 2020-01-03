@@ -87,6 +87,7 @@
 * [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+* [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Mtech viral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
 * [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
@@ -94,6 +95,7 @@
 * [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg)
 * [Jeremy Howard](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
 * [Codepunk](https://www.youtube.com/c/codepunk)
+* [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
 
 
 
@@ -143,6 +145,8 @@
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* [Ben Eater](https://www.youtube.com/user/eaterbc)
+
 
 ### Live Coding
 > These channels live code.
@@ -156,6 +160,7 @@
 * [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
 * [Alexander Alemayhu](https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ)
 * [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+* [anthonywritescode](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
 
 
 ### Software Entertainment
@@ -265,7 +270,7 @@
 ## Russian
 
 ##### Web Development
-* [webDev](www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
+* [webDev](https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
 * [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 * [Loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
 * [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
@@ -390,6 +395,9 @@
 * [SQL전문가 정미나](https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw)
 * [빵굽는개발자 빵형](https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ)
 * [권오흠](https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA)
+* [HOWLAB](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
+* [레트로 retr0](https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ)
+* [안드로이드 생존코딩](https://www.youtube.com/channel/UCz9n4yRsYYryRjrSCK0-YWA)
 
 
 
@@ -413,7 +421,11 @@
 ## Indonesian
 
 * [Taman Kode-Kode](https://www.youtube.com/c/tamankodekode)
-
+* [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
+* [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+* [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
+* [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish)
+* [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 
 ## Arabic
 ##### Web Development
