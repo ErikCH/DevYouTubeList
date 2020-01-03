@@ -412,7 +412,11 @@
 ## Indonesian
 
 * [Taman Kode-Kode](https://www.youtube.com/c/tamankodekode)
-
+* [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
+* [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+* [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
+* [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish)
+* [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 
 ## Arabic
 ##### Web Development
