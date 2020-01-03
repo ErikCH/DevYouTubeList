@@ -279,6 +279,7 @@
 * [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
 * [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
+* [ExtremeCode](https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w)
 
 
 ## Hindi  
