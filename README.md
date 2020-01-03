@@ -438,3 +438,15 @@
 * [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
 * [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
 
+#This list is subject to change so these will be adjusted accordingly
+
+    Web Development
+    * Coder's Tape ; PHP
+    * techsith ; JavaScript
+    * Programming with Peter ; PHP
+
+
+    
+    Machine Learning
+    Game Development
+    Interview Preperation
