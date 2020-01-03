@@ -144,6 +144,7 @@
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
+* [Ben Eater](https://www.youtube.com/user/eaterbc)
 
 ### Live Coding
 > These channels live code.
