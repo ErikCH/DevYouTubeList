@@ -364,3 +364,5 @@
 * [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
 * [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
 * [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
+* [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
+* [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
