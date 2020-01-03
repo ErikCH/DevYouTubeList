@@ -94,6 +94,7 @@
 * [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg)
 * [Jeremy Howard](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
 * [Codepunk](https://www.youtube.com/c/codepunk)
+* [Lee Gaines](https://www.youtube.com/c/leegaines)
 
 
 
