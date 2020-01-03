@@ -87,6 +87,7 @@
 * [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+* [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Mtech viral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
 * [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
@@ -95,8 +96,6 @@
 * [Jeremy Howard](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
 * [Codepunk](https://www.youtube.com/c/codepunk)
 * [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
-
-
 
 
 
