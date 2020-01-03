@@ -389,6 +389,9 @@
 * [SQL전문가 정미나](https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw)
 * [빵굽는개발자 빵형](https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ)
 * [권오흠](https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA)
+* [HOWLAB](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
+* [레트로 retr0](https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ)
+* [안드로이드 생존코딩](https://www.youtube.com/channel/UCz9n4yRsYYryRjrSCK0-YWA)
 
 
 
