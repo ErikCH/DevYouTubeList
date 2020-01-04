@@ -100,8 +100,9 @@
 * [Lee Gaines](https://www.youtube.com/c/leegaines)
 * [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
 * [Weibenfalk](https://www.youtube.com/c/weibenfalk)
-
-
+* [edureka!](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
+* [Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg)
+* [Intellipaat](https://www.youtube.com/user/intellipaaat)
 
 ### Informational
 > These channels focus on information about software development and career advice.
