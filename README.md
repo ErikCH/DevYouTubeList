@@ -437,4 +437,15 @@
 * [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
 * [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
 * [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
+* [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
+* [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
 
+##### Networking & Security
+* [تكناوي دوت نيت](https://www.youtube.com/user/technawidotnet)
+* [Ahmed Nazmy](https://www.youtube.com/channel/UCVmUkof79TOQy-9nclwdPCw)
+* [Free4arab](https://www.youtube.com/user/Nourelhoda2011)
+* [iSecur1ty](https://www.youtube.com/user/iSecur1tycommunity)
+
+##### Electronics & Technology
+* [Walid Issa](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA)
+* [اكاديمية احمد المصرى](https://www.youtube.com/user/AHME115D)
