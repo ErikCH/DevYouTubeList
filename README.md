@@ -77,6 +77,7 @@
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
+* [A Plus Coding](https://www.youtube.com/channel/UC-pLL_SFEm6B9Eeyr-V424Q)
 * [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa/videos)
 * [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA/videos)
 * [Codecourse](https://www.youtube.com/user/phpacademy/videos)
