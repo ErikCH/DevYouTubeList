@@ -105,10 +105,7 @@
 * [Intellipaat](https://www.youtube.com/user/intellipaaat)
 * [OnlineITGuru](https://www.youtube.com/channel/UCfu0IAYofM3TDMxemNX0kLg)
 * [Naresh i Technologies](https://www.youtube.com/user/nareshtechnologies)
-* <details>
-<summary>"Click to expand"</summary>
-this is hidden
-</details>
+* <details><summary>"Wordpress"</summary>*[Wpcast]()<details>
 
 ### Informational
 > These channels focus on information about software development and career advice.
