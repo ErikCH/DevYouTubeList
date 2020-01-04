@@ -36,7 +36,6 @@
 * [Program With Erik](http://erik.video)
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
-* [Weibenfalk](https://www.youtube.com/c/weibenfalk)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
@@ -98,6 +97,7 @@
 * [Codepunk](https://www.youtube.com/c/codepunk)
 * [Lee Gaines](https://www.youtube.com/c/leegaines)
 * [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
+* [Weibenfalk](https://www.youtube.com/c/weibenfalk)
 
 
 
