@@ -100,7 +100,7 @@
 * [Lee Gaines](https://www.youtube.com/c/leegaines)
 * [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
 * [Weibenfalk](https://www.youtube.com/c/weibenfalk)
-
+* [VueScreencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
 
 
 ### Informational
