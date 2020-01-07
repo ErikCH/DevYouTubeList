@@ -40,6 +40,7 @@
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [codeSTACKr](https://www.youtube.com/codestackr)
 * [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 * [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
