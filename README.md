@@ -41,6 +41,7 @@
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 * [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/featured)
@@ -78,6 +79,7 @@
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
+* [A Plus Coding](https://www.youtube.com/channel/UC-pLL_SFEm6B9Eeyr-V424Q)
 * [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa/videos)
 * [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA/videos)
 * [Codecourse](https://www.youtube.com/user/phpacademy/videos)
@@ -88,6 +90,7 @@
 * [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+* [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Mtech viral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
 * [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
@@ -95,6 +98,9 @@
 * [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg)
 * [Jeremy Howard](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
 * [Codepunk](https://www.youtube.com/c/codepunk)
+* [Lee Gaines](https://www.youtube.com/c/leegaines)
+* [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
+* [Weibenfalk](https://www.youtube.com/c/weibenfalk)
 
 
 
@@ -107,7 +113,6 @@
 * [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
 * [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
-* [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
 * [Simple Programmer](https://www.youtube.com/channel/UCRxWW_Ncs308nW4An23Yeig)
 * [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 * [Stefan Mischook](https://www.youtube.com/user/killerphp)
@@ -143,6 +148,9 @@
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* [Ben Eater](https://www.youtube.com/user/eaterbc)
+
 
 ### Live Coding
 > These channels live code.
@@ -156,6 +164,9 @@
 * [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
 * [Alexander Alemayhu](https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ)
 * [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+* [anthonywritescode](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
+* [More live w/ René Rebe](https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw)
+* [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
 
 
 ### Software Entertainment
@@ -227,6 +238,7 @@
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
+* [Cody Seibert](https://youtube.com/c/codyseibert)
 
 
 ### Retired
@@ -265,7 +277,7 @@
 ## Russian
 
 ##### Web Development
-* [webDev](www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
+* [webDev](https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
 * [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 * [Loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
 * [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw)
@@ -274,6 +286,7 @@
 * [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw)
 * [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
+* [ExtremeCode](https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w)
 
 
 ## Hindi  
@@ -331,6 +344,7 @@
 * [BettaTech](https://www.youtube.com/c/BettaTech)
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
+* [DominiCODE](https://www.youtube.com/c/dominicode)
 
 
 ## French
@@ -390,6 +404,9 @@
 * [SQL전문가 정미나](https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw)
 * [빵굽는개발자 빵형](https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ)
 * [권오흠](https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA)
+* [HOWLAB](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
+* [레트로 retr0](https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ)
+* [안드로이드 생존코딩](https://www.youtube.com/channel/UCz9n4yRsYYryRjrSCK0-YWA)
 
 
 
@@ -413,7 +430,11 @@
 ## Indonesian
 
 * [Taman Kode-Kode](https://www.youtube.com/c/tamankodekode)
-
+* [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
+* [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+* [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
+* [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish)
+* [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 
 ## Arabic
 ##### Web Development
@@ -421,3 +442,17 @@
 * [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
 * [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
 * [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
+* [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
+* [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
+* [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
+* [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
+
+##### Networking & Security
+* [تكناوي دوت نيت](https://www.youtube.com/user/technawidotnet)
+* [Ahmed Nazmy](https://www.youtube.com/channel/UCVmUkof79TOQy-9nclwdPCw)
+* [Free4arab](https://www.youtube.com/user/Nourelhoda2011)
+* [iSecur1ty](https://www.youtube.com/user/iSecur1tycommunity)
+
+##### Electronics & Technology
+* [Walid Issa](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA)
+* [اكاديمية احمد المصرى](https://www.youtube.com/user/AHME115D)
