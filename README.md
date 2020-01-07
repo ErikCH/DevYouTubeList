@@ -40,7 +40,6 @@
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-* [codeSTACKr](https://www.youtube.com/codestackr)
 * [Chris Hawkes](https://www.youtube.com/user/noobtoprofessional)
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 * [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
@@ -104,6 +103,7 @@
 * [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
 * [CodeBlobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+* [codeSTACKr](https://www.youtube.com/codestackr)
 
 
 ### Informational
