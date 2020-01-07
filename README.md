@@ -100,6 +100,7 @@
 * [Lee Gaines](https://www.youtube.com/c/leegaines)
 * [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
 * [Weibenfalk](https://www.youtube.com/c/weibenfalk)
+* [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
 
 
 
