@@ -154,6 +154,7 @@
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Ben Eater](https://www.youtube.com/user/eaterbc)
+* [Prismic](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/)
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
 
 
