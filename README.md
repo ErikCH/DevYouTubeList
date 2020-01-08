@@ -443,31 +443,27 @@
 * [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 
 ## Arabic
-##### Web Development
-* [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
-* [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
-* [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
-* [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
-* [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
-* [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
-* [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
-
 ##### Android Apps Development
 * [Hendiware](https://www.youtube.com/channel/UC4fCtqpNFVtPEDAiym7Um3A)
 * [coding with nerds](https://www.youtube.com/channel/UCnDAXfhnL5j-KhHc1KhvXHw)
+
+##### Competitive Programming
+* [Arabic Competitive Programming](https://www.youtube.com/channel/UC8OxKsmAyrGAfBiluhpLkbA)
+
+##### Electronics & Technology
+* [Walid Issa](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA)
+* [اكاديمية احمد المصرى](https://www.youtube.com/user/AHME115D)
+
+##### Linux Tutorials
+* [عرب جنو/لينكس](https://www.youtube.com/user/abdulmogeeb)
+* [Gnu Tux](https://www.youtube.com/channel/UCYkmbkbkSVawjH4WlIHmEoA)
+* [I'm Linux](https://www.youtube.com/channel/UCqh8wg3RiQFXNgwR4pn-zpw)
 
 ##### Networking & Security
 * [تكناوي دوت نيت](https://www.youtube.com/user/technawidotnet)
 * [Ahmed Nazmy](https://www.youtube.com/channel/UCVmUkof79TOQy-9nclwdPCw)
 * [Free4arab](https://www.youtube.com/user/Nourelhoda2011)
 * [iSecur1ty](https://www.youtube.com/user/iSecur1tycommunity)
-
-##### Electronics & Technology
-* [Walid Issa](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA)
-* [اكاديمية احمد المصرى](https://www.youtube.com/user/AHME115D)
-
-##### Competitive Programming
-* [Arabic Competitive Programming](https://www.youtube.com/channel/UC8OxKsmAyrGAfBiluhpLkbA)
 
 ##### Programming Tutorials
 * [محمد الدسوقى](https://www.youtube.com/channel/UCWX_0VvMxl0_XosvYOZ7O0g)
@@ -482,7 +478,11 @@
 * [محمد شوشان](https://www.youtube.com/channel/UCtOyb8800Av9Q-7i-l2mYyA)
 * [algorithm](https://www.youtube.com/channel/UChjh0djRQtOfzS9fWGXTt9g)
 
-##### Linux Tutorials
-* [عرب جنو/لينكس](https://www.youtube.com/user/abdulmogeeb)
-* [Gnu Tux](https://www.youtube.com/channel/UCYkmbkbkSVawjH4WlIHmEoA)
-* [I'm Linux](https://www.youtube.com/channel/UCqh8wg3RiQFXNgwR4pn-zpw)
+##### Web Development
+* [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
+* [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
+* [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
+* [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
+* [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
+* [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
+* [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
