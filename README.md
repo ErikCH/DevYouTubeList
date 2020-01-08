@@ -103,6 +103,7 @@
 * [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
 * [CodeBlobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+* [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 
 
 ### Informational
