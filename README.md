@@ -444,7 +444,6 @@
 
 ## Arabic
 ##### Web Development
-
 * [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
 * [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
 * [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
@@ -452,6 +451,10 @@
 * [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
 * [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
 * [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
+
+##### Android Apps Development
+* [Hendiware](https://www.youtube.com/channel/UC4fCtqpNFVtPEDAiym7Um3A)
+* [coding with nerds](https://www.youtube.com/channel/UCnDAXfhnL5j-KhHc1KhvXHw)
 
 ##### Networking & Security
 * [تكناوي دوت نيت](https://www.youtube.com/user/technawidotnet)
@@ -462,3 +465,24 @@
 ##### Electronics & Technology
 * [Walid Issa](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA)
 * [اكاديمية احمد المصرى](https://www.youtube.com/user/AHME115D)
+
+##### Competitive Programming
+* [Arabic Competitive Programming](https://www.youtube.com/channel/UC8OxKsmAyrGAfBiluhpLkbA)
+
+##### Programming Tutorials
+* [محمد الدسوقى](https://www.youtube.com/channel/UCWX_0VvMxl0_XosvYOZ7O0g)
+* [TheNewBaghdad](https://www.youtube.com/user/alxs1aa/)
+* [Abdullah Almehmadi](https://www.youtube.com/user/abdullaheidtv)
+* [theadvphp](https://www.youtube.com/channel/UCtxSsAb7AE-cm7_p7Rrhvzg)
+* [Fathi Alamre](https://www.youtube.com/channel/UCjSMxeBvGtXdqwhaUXEImDQ)
+* [Mahmoud Ahmed - Python Tutorials](https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g)
+* [Hassouna Academy](https://www.youtube.com/channel/UC5PbBz_roYczmUR6gg_OAxw)
+* [Hussam Hourani](https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA)
+* [Elsafy Hegazy](https://www.youtube.com/channel/UCgwvjrWLnpjSi6kXKXaAaww)
+* [محمد شوشان](https://www.youtube.com/channel/UCtOyb8800Av9Q-7i-l2mYyA)
+* [algorithm](https://www.youtube.com/channel/UChjh0djRQtOfzS9fWGXTt9g)
+
+##### Linux Tutorials
+* [عرب جنو/لينكس](https://www.youtube.com/user/abdulmogeeb)
+* [Gnu Tux](https://www.youtube.com/channel/UCYkmbkbkSVawjH4WlIHmEoA)
+* [I'm Linux](https://www.youtube.com/channel/UCqh8wg3RiQFXNgwR4pn-zpw)
