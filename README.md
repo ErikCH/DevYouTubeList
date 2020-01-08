@@ -152,6 +152,7 @@
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Ben Eater](https://www.youtube.com/user/eaterbc)
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
+* [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
 
 
 ### Live Coding
