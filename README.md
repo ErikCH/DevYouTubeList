@@ -106,6 +106,8 @@
 * [codeSTACKr](https://www.youtube.com/codestackr)
 * [Claudio Bernasconi](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw)
 * [ResoCoder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
+* [Webslesson](https://www.youtube.com/channel/UC8Nbgc4vUi27HgBv2ffEiHw)
+* [Codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
 
 
 ### Informational
@@ -156,6 +158,8 @@
 * [Ben Eater](https://www.youtube.com/user/eaterbc)
 * [Prismic](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/)
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
+* [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
+* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
 
 
 ### Live Coding
@@ -441,7 +445,14 @@
 * [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
 * [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish)
 * [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
-
+* [MastahCode](https://www.youtube.com/channel/UCWjyFg2q0Gnu9kbN_hDSpJQ)
+* [YukCoding](https://www.youtube.com/channel/UCkIiNw-qbCy_NHZeg8BNsMQ)
+* [Kawan Coding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
+* [IDStack](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
+* [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
+* [Framework Indonesia](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
+* [idr corner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
+  
 ## Arabic
 ##### Web Development
 
