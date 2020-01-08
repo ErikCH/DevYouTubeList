@@ -153,7 +153,7 @@
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Ben Eater](https://www.youtube.com/user/eaterbc)
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
-* [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
+
 
 
 ### Live Coding
@@ -304,6 +304,7 @@
 * [Free Programmer](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
 * [Durgasoft solutions](https://www.youtube.com/user/durgasoftware)
 * [Technical Suneja](https://www.youtube.com/channel/UCHIbErciyS3Hs0kjAz-at5Q)
+* [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
    
 
 ## Turkish
