@@ -103,6 +103,7 @@
 * [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
 * [CodeBlobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+* [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [codeSTACKr](https://www.youtube.com/codestackr)
 * [Claudio Bernasconi](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw)
 * [ResoCoder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
@@ -160,6 +161,7 @@
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
 * [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 * [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+
 
 
 ### Live Coding
@@ -310,6 +312,7 @@
 * [Free Programmer](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
 * [Durgasoft solutions](https://www.youtube.com/user/durgasoftware)
 * [Technical Suneja](https://www.youtube.com/channel/UCHIbErciyS3Hs0kjAz-at5Q)
+* [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
    
 
 ## Turkish
