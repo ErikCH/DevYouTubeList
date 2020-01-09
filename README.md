@@ -91,7 +91,7 @@
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 * [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Mtech viral](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
+* [MTECHVIRAL](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos)
 * [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
 * [I Am Tim Corey](https://www.youtube.com/user/IAmTimCorey)
 * [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg)
@@ -104,6 +104,11 @@
 * [CodeBlobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 * [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [codeSTACKr](https://www.youtube.com/codestackr)
+* [Claudio Bernasconi](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw)
+* [ResoCoder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
+* [Webslesson](https://www.youtube.com/channel/UC8Nbgc4vUi27HgBv2ffEiHw)
+* [Codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
 
 
 ### Informational
@@ -152,7 +157,10 @@
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Ben Eater](https://www.youtube.com/user/eaterbc)
+* [Prismic](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/)
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
+* [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
+* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
 
 
 
@@ -440,17 +448,30 @@
 * [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
 * [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish)
 * [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
-
+* [MastahCode](https://www.youtube.com/channel/UCWjyFg2q0Gnu9kbN_hDSpJQ)
+* [YukCoding](https://www.youtube.com/channel/UCkIiNw-qbCy_NHZeg8BNsMQ)
+* [Kawan Coding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
+* [IDStack](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
+* [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
+* [Framework Indonesia](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
+* [idr corner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
+  
 ## Arabic
-##### Web Development
+##### Android Apps Development
+* [Hendiware](https://www.youtube.com/channel/UC4fCtqpNFVtPEDAiym7Um3A)
+* [coding with nerds](https://www.youtube.com/channel/UCnDAXfhnL5j-KhHc1KhvXHw)
 
-* [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
-* [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
-* [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
-* [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
-* [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
-* [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
-* [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
+##### Competitive Programming
+* [Arabic Competitive Programming](https://www.youtube.com/channel/UC8OxKsmAyrGAfBiluhpLkbA)
+
+##### Electronics & Technology
+* [Walid Issa](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA)
+* [اكاديمية احمد المصرى](https://www.youtube.com/user/AHME115D)
+
+##### Linux Tutorials
+* [عرب جنو/لينكس](https://www.youtube.com/user/abdulmogeeb)
+* [Gnu Tux](https://www.youtube.com/channel/UCYkmbkbkSVawjH4WlIHmEoA)
+* [I'm Linux](https://www.youtube.com/channel/UCqh8wg3RiQFXNgwR4pn-zpw)
 
 ##### Networking & Security
 * [تكناوي دوت نيت](https://www.youtube.com/user/technawidotnet)
@@ -458,6 +479,24 @@
 * [Free4arab](https://www.youtube.com/user/Nourelhoda2011)
 * [iSecur1ty](https://www.youtube.com/user/iSecur1tycommunity)
 
-##### Electronics & Technology
-* [Walid Issa](https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA)
-* [اكاديمية احمد المصرى](https://www.youtube.com/user/AHME115D)
+##### Programming Tutorials
+* [محمد الدسوقى](https://www.youtube.com/channel/UCWX_0VvMxl0_XosvYOZ7O0g)
+* [TheNewBaghdad](https://www.youtube.com/user/alxs1aa/)
+* [Abdullah Almehmadi](https://www.youtube.com/user/abdullaheidtv)
+* [theadvphp](https://www.youtube.com/channel/UCtxSsAb7AE-cm7_p7Rrhvzg)
+* [Fathi Alamre](https://www.youtube.com/channel/UCjSMxeBvGtXdqwhaUXEImDQ)
+* [Mahmoud Ahmed - Python Tutorials](https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g)
+* [Hassouna Academy](https://www.youtube.com/channel/UC5PbBz_roYczmUR6gg_OAxw)
+* [Hussam Hourani](https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA)
+* [Elsafy Hegazy](https://www.youtube.com/channel/UCgwvjrWLnpjSi6kXKXaAaww)
+* [محمد شوشان](https://www.youtube.com/channel/UCtOyb8800Av9Q-7i-l2mYyA)
+* [algorithm](https://www.youtube.com/channel/UChjh0djRQtOfzS9fWGXTt9g)
+
+##### Web Development
+* [Abdulaziz Alzaabi](https://www.youtube.com/user/Oman1998)
+* [عالم البرمجه](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA)
+* [Raouf Rahiche](https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA)
+* [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
+* [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
+* [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
+* [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
