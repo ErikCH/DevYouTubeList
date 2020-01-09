@@ -109,6 +109,7 @@
 * [ResoCoder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
 * [Webslesson](https://www.youtube.com/channel/UC8Nbgc4vUi27HgBv2ffEiHw)
 * [Codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
+* [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
 
 
 ### Informational
