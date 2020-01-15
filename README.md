@@ -34,7 +34,6 @@
 > These channels focus on tutorials and code alongs.
 
 * [Program With Erik](http://erik.video)
-* [Filled Stacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q)
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
@@ -101,6 +100,7 @@
 * [Lee Gaines](https://www.youtube.com/c/leegaines)
 * [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
 * [Weibenfalk](https://www.youtube.com/c/weibenfalk)
+* [Filled Stacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q)
 
 
 
