@@ -100,6 +100,7 @@
 * [Lee Gaines](https://www.youtube.com/c/leegaines)
 * [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
 * [Weibenfalk](https://www.youtube.com/c/weibenfalk)
+* [Filled Stacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q)
 * [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
 * [CodeBlobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
@@ -111,6 +112,7 @@
 * [Codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
 * [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
 * [Coding From Null](https://www.youtube.com/channel/UC9Psp9-p9jgHfDBReAAcZ3w)
+
 
 
 ### Informational
