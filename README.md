@@ -510,15 +510,15 @@
 
 ## Polish
 ##### Tutorial
-[overment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg)
-[hello roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g)
-[Samuraj Programowania](https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg)
-[Piotr Baja](https://www.youtube.com/channel/UC1YOiz2oJ26hHrfBTpnrW-A)
-[Dominik Kozaczko](https://www.youtube.com/user/dekoza)
-[Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw)
-[UW-TEAM.org](https://www.youtube.com/user/uwteamorg)
+* [overment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg)
+* [hello roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g)
+* [Samuraj Programowania](https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg)
+* [Piotr Baja](https://www.youtube.com/channel/UC1YOiz2oJ26hHrfBTpnrW-A)
+* [Dominik Kozaczko](https://www.youtube.com/user/dekoza)
+* [Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw)
+* [UW-TEAM.org](https://www.youtube.com/user/uwteamorg)
 ##### Informational
-[JavaDevMatt](https://www.youtube.com/user/JavaDevMatt)
+* [JavaDevMatt](https://www.youtube.com/user/JavaDevMatt)
 ##### Live Coding
-[Hubert Moszka](https://www.youtube.com/channel/UCnVDvEpH2H7Hm2D9i718gbA)
-[GynvaelColdwind](https://www.youtube.com/user/GynvaelColdwind)
+* [Hubert Moszka](https://www.youtube.com/channel/UCnVDvEpH2H7Hm2D9i718gbA)
+* [GynvaelColdwind](https://www.youtube.com/user/GynvaelColdwind)
