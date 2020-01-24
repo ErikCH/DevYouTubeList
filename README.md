@@ -233,7 +233,7 @@
 
 ### Up And Coming
 > These channels have less than a thousand subscribers or less than 10000 views a month.
-
+* [DevHoot](https://www.youtube.com/channel/UCV-F9TgeC_bSEdHH9qDfqXw)
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
