@@ -256,7 +256,7 @@
 * [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
 * [Cody Seibert](https://youtube.com/c/codyseibert)
 * [The Renegade Coder](https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw)
-
+* [Chill and Hack with Joel](https://www.youtube.com/channel/UCmLNckliLBW_42UWGD9ITxQ)
 
 ### Retired
 > These channels haven't uploaded in the last six months.
@@ -287,7 +287,6 @@
 * [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
 * [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
 * [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
-
 
 # Non English
 
