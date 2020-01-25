@@ -25,6 +25,7 @@
     - [Spanish](#spanish)
     - [Indonesian](#indonesian)
     - [Arabic](#arabic)
+    - [German](#german)
 
 
 
@@ -504,3 +505,7 @@
 * [Khalid ESSAADANI](https://www.youtube.com/user/EssaadaniTV)
 * [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
 * [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
+
+## German
+* [zekro](https://www.youtube.com/user/Zekrommaster110)
+* [The Morpheus Tutorials](https://www.youtube.com/user/TheMorpheus407)
