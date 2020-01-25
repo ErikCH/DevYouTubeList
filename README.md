@@ -113,7 +113,6 @@
 * [Codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
 * [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
 * [Coding From Null](https://www.youtube.com/channel/UC9Psp9-p9jgHfDBReAAcZ3w)
-* [KodeKloud](https://www.youtube.com/user/mmumshad) - Docker, Kubernetes
 
 
 
