@@ -304,7 +304,9 @@
 * [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
 * [ExtremeCode](https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w)
-
+* [Sorax](https://www.youtube.com/user/ArtSorax)
+* [w23](https://www.youtube.com/user/floba23)
+* [Yuri Artyukh](https://www.youtube.com/channel/UCDo7RTzizoOdPjY8A-xDR7g)
 
 ## Hindi
 
