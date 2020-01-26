@@ -114,6 +114,8 @@
 * [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
 * [Coding From Null](https://www.youtube.com/channel/UC9Psp9-p9jgHfDBReAAcZ3w)
 * [VueScreencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
+* [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
+
 
 
 
