@@ -262,6 +262,7 @@
 * [Cody Seibert](https://youtube.com/c/codyseibert)
 * [The Renegade Coder](https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw)
 * [Chill and Hack with Joel](https://www.youtube.com/channel/UCmLNckliLBW_42UWGD9ITxQ)
+* [DevHoot](https://www.youtube.com/channel/UCV-F9TgeC_bSEdHH9qDfqXw)
 
 ### Retired
 > These channels haven't uploaded in the last six months.
