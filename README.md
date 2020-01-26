@@ -374,6 +374,12 @@
 ## French
 
 * [Grafikart](https://www.youtube.com/user/grafikarttv)
+* [Développeur Libre](https://www.youtube.com/channel/UCjDg7LaaMzmuhj6I1jTzb1Q)
+* [Harry JMG](https://www.youtube.com/channel/UC61GK_nOLSJdzAK5hoR2mJA)
+* [Graven](https://www.youtube.com/user/Gravenilvectuto)
+* [Benjamin Code](https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw)
+* [PrimFX](https://www.youtube.com/user/primfxdesign)
+
 
 
 ## Brazilian
