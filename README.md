@@ -26,6 +26,7 @@
     - [Indonesian](#indonesian)
     - [Arabic](#arabic)
     - [German](#german)
+    - [Polish](#polish)
 
 
 
@@ -113,6 +114,9 @@
 * [Codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
 * [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
 * [Coding From Null](https://www.youtube.com/channel/UC9Psp9-p9jgHfDBReAAcZ3w)
+* [VueScreencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
+* [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
+
 
 
 
@@ -304,7 +308,9 @@
 * [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g)
 * [Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured)
 * [ExtremeCode](https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w)
-
+* [Sorax](https://www.youtube.com/user/ArtSorax)
+* [w23](https://www.youtube.com/user/floba23)
+* [Yuri Artyukh](https://www.youtube.com/channel/UCDo7RTzizoOdPjY8A-xDR7g)
 
 ## Hindi
 
@@ -506,6 +512,23 @@
 * [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy)
 * [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
 
+
 ## German
 * [zekro](https://www.youtube.com/user/Zekrommaster110)
 * [The Morpheus Tutorials](https://www.youtube.com/user/TheMorpheus407)
+
+
+## Polish
+##### Tutorial
+* [overment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg)
+* [hello roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g)
+* [Samuraj Programowania](https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg)
+* [Piotr Baja](https://www.youtube.com/channel/UC1YOiz2oJ26hHrfBTpnrW-A)
+* [Dominik Kozaczko](https://www.youtube.com/user/dekoza)
+* [Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw)
+* [UW-TEAM.org](https://www.youtube.com/user/uwteamorg)
+##### Informational
+* [JavaDevMatt](https://www.youtube.com/user/JavaDevMatt)
+##### Live Coding
+* [Hubert Moszka](https://www.youtube.com/channel/UCnVDvEpH2H7Hm2D9i718gbA)
+* [GynvaelColdwind](https://www.youtube.com/user/GynvaelColdwind)
