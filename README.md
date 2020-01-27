@@ -366,6 +366,7 @@
 
 ## Spanish
 
+* [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
