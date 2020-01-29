@@ -117,7 +117,10 @@
 * [VueScreencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
 * [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
 * [CodeLit](https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw)
-
+* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+* [Telusko](https://www.youtube.com/user/javaboynavin)
+* [kudvenkat](https://www.youtube.com/user/kudvenkat)
+* [Awais Mirza](https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA)
 
 
 ### Informational
@@ -169,7 +172,6 @@
 * [Prismic](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/)
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
 * [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
-* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
 
 
 
@@ -293,6 +295,7 @@
 * [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
 * [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
 * [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+* [BBarters](https://www.youtube.com/channel/UCFlzHaNC_YJTIRoXbx6zfrA)
 
 # Non English
 
