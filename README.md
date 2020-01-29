@@ -67,7 +67,6 @@
 * [Kevin Powell](https://www.youtube.com/user/KepowOb)
 * [Chris Coyier](https://www.youtube.com/user/realcsstricks)
 * [mmtuts](https://www.youtube.com/user/TheCharmefis)
-* [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ)
 * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 * [CodingTheSmartWay](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ)
 * [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
@@ -88,7 +87,6 @@
 * [Classsed](https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg/videos)
 * [Chris Courses](https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA/videos)
 * [Flutter(Official)](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
-* [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 * [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
@@ -155,7 +153,6 @@
 * [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 * [Chris Jereza](https://www.youtube.com/channel/UCPrRsdgsxOmzr9ykAf7tlDw)
 * [Benjamin N. Spak](https://www.youtube.com/user/bnspak)
-* [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 * [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 * [Google Students](https://www.youtube.com/user/GoogleStudents)
 * [TheHappieCat](https://www.youtube.com/user/TheHappieCat)
@@ -191,6 +188,19 @@
 * [More live w/ René Rebe](https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw)
 * [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
 
+### Game Development
+> These channels focus on game development.
+
+* [Brackeys](https://www.youtube.com/user/Brackeys)
+* [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ)
+* [Gamefromscratch](https://www.youtube.com/user/gamefromscratch)
+* [Jonas Tyroller](https://www.youtube.com/channel/UC_p_9arduPuxM8DHTGIuSOg)
+* [Blackthornprod ](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g)
+* [Snoman Gaming](https://www.youtube.com/user/snomangaming)
+* [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+* [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
+* [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
+
 
 ### Software Entertainment
 > These channels are focused on entertainment and are more loosely associated with software development.
@@ -206,7 +216,7 @@
 * [Life of Luba](https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-
+* [Jarvis Johnson](https://www.youtube.com/user/VSympathyV)
 
 ### Competitive Programming And Interview Preparation
 > These channels focuses mainly upon DS & Algorithms along with interview preparation.
