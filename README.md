@@ -7,6 +7,7 @@
     - [Tutorial](#tutorial)
     - [Informational](#informational)
     - [Live Coding](#live-coding)
+    - [Game Development](#game-development)
     - [Software Entertainment](#software-entertainment)
     - [Competitive Programming & Interview Preperation](#competitive-programming-and-interview-preparation)
     - [Up and coming](#up-and-coming)
