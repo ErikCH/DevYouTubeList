@@ -375,10 +375,14 @@
 
 
 ## Bengali
-* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+* [Anisul Islam](https://www.youtube.com/user/ANIS3730)
+* [Codeonces](https://www.youtube.com/channel/UC003ZRmU5IdxoHDjmrOaO7w)
 * [Dimik Computing](https://www.youtube.com/channel/UC29OOZhABBZ_qqQKkcwpIuQ)
-* [Tamim Shahriar](https://www.youtube.com/channel/UCFsbfRphhQfPFJrwKb7s3JA)
 * [Machine Learning। মেশিন লার্নিং । হাতে কলমে](https://www.youtube.com/channel/UC4RrCd2anEWtZJr9_wX76kA)
+* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+* [Tamim Shahriar](https://www.youtube.com/channel/UCFsbfRphhQfPFJrwKb7s3JA)
+* [Zulkarnine Mahmud](https://www.youtube.com/user/zulkarnine2076)
+* [Learn with Hasin Hayder](https://www.youtube.com/user/countdraculla16)
 
 
 ## Spanish
