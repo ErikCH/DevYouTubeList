@@ -308,6 +308,7 @@
 * [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
 * [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
 * [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+* [Coding Math](https://www.youtube.com/user/codingmath)
 * [BBarters](https://www.youtube.com/channel/UCFlzHaNC_YJTIRoXbx6zfrA)
 
 # Non English
