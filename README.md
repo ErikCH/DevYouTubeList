@@ -120,6 +120,7 @@
 * [Telusko](https://www.youtube.com/user/javaboynavin)
 * [kudvenkat](https://www.youtube.com/user/kudvenkat)
 * [Awais Mirza](https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA)
+* [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
 
 
 ### Informational
@@ -310,6 +311,9 @@
 * [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 * [Coding Math](https://www.youtube.com/user/codingmath)
 * [BBarters](https://www.youtube.com/channel/UCFlzHaNC_YJTIRoXbx6zfrA)
+* [Brent Aureli's - Code School](https://www.youtube.com/user/Profyx)
+* [Cave of Programming](https://www.youtube.com/user/caveofprogramming)
+* [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
 
 # Non English
 
