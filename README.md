@@ -170,6 +170,7 @@
 * [Prismic](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/)
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
 * [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
+* [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
 
 
 
@@ -188,7 +189,6 @@
 * [anthonywritescode](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
 * [More live w/ René Rebe](https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw)
 * [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
-* [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
 
 ### Game Development
 > These channels focus on game development.
