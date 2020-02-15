@@ -466,6 +466,7 @@
 * [HOWLAB](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
 * [레트로 retr0](https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ)
 * [안드로이드 생존코딩](https://www.youtube.com/channel/UCz9n4yRsYYryRjrSCK0-YWA)
+* [코지 코더 Kossie Coder](https://www.youtube.com/channel/UCI4tTBupvhMX1aWDSm-HAXw)
 
 
 
