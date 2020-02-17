@@ -122,6 +122,7 @@
 * [Awais Mirza](https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA)
 * [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
 * [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg)
+* [7Sharp9](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg)
 
 
 ### Informational
