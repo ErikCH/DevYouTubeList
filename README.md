@@ -122,7 +122,7 @@
 * [Awais Mirza](https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA)
 * [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
 * [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg)
-* [7Sharp9](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg)
+
 
 
 ### Informational
@@ -284,6 +284,7 @@
 * [Nick Chapsas](https://www.youtube.com/user/ElfocrashDev)
 * [Romanian Coder](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw)
 * [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ/featured)
+* [7Sharp9](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg)
 
 ### Retired
 > These channels haven't uploaded in the last six months.
