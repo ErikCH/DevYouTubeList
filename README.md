@@ -282,6 +282,7 @@
 * [Leigh Halliday](https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ)
 * [Nick Chapsas](https://www.youtube.com/user/ElfocrashDev)
 * [Romanian Coder](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw)
+* [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ/featured)
 
 ### Retired
 > These channels haven't uploaded in the last six months.
