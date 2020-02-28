@@ -192,6 +192,7 @@
 * [anthonywritescode](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
 * [More live w/ René Rebe](https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw)
 * [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
+* [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
 
 ### Game Development
 > These channels focus on game development.
