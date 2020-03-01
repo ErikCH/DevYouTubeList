@@ -422,6 +422,7 @@
 * [Graven](https://www.youtube.com/user/Gravenilvectuto)
 * [Benjamin Code](https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw)
 * [PrimFX](https://www.youtube.com/user/primfxdesign)
+* [getCodingKnowledge](https://www.youtube.com/channel/UCUjo_IKa9Cqkx_x-rMly8MA)
 
 
 
