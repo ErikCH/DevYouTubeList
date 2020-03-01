@@ -28,6 +28,7 @@
     - [Arabic](#arabic)
     - [German](#german)
     - [Polish](#polish)
+    - [Somali](#somali)
 
 
 
@@ -583,3 +584,6 @@
 ##### Live Coding
 * [Hubert Moszka](https://www.youtube.com/channel/UCnVDvEpH2H7Hm2D9i718gbA)
 * [GynvaelColdwind](https://www.youtube.com/user/GynvaelColdwind)
+
+## Somali
+* [Duraan Ali](https://www.youtube.com/duraanali)
