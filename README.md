@@ -446,6 +446,7 @@
 * [Daniel Snows](https://www.youtube.com/channel/UCfDenO9v3NpxzE32hAdW36Q)
 * [Código Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg)
 * [Eduardo Pires](https://www.youtube.com/user/headfox)
+* [Eduardo Albuquerque](https://www.youtube.com/channel/UC8u-WRHndyT2VwOAwXP4Fgw)
 * [Tiago Matos](https://www.youtube.com/user/tiagomatosweb)
 * [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 * [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
