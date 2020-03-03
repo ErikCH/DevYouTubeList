@@ -194,6 +194,7 @@
 * [More live w/ René Rebe](https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw)
 * [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
 * [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
+* [Tim Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow)
 
 ### Game Development
 > These channels focus on game development.
