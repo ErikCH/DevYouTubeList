@@ -176,6 +176,7 @@
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
 * [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 * [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
+* [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 
 
 
@@ -209,6 +210,7 @@
 * [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 * [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 * [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
+* [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
 
 
 ### Software Entertainment
