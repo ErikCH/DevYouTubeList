@@ -129,6 +129,8 @@
 * [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w/videos)
 * [Inspire UI](https://www.youtube.com/user/minhcasi/videos)
 
+
+
 ### Informational
 > These channels focus on information about software development and career advice.
 
@@ -179,6 +181,7 @@
 * [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 * [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
 * [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos)
+
 
 
 ### Live Coding
