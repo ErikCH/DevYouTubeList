@@ -128,6 +128,7 @@
 * [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw/videos)
 * [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w/videos)
 * [Inspire UI](https://www.youtube.com/user/minhcasi/videos)
+* [Alessandro Castellani](https://www.youtube.com/user/williamprey)
 
 
 
@@ -181,6 +182,8 @@
 * [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 * [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
 * [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos)
+* [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+
 
 
 
@@ -214,6 +217,7 @@
 * [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 * [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 * [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
+* [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
 
 
 ### Software Entertainment
