@@ -124,7 +124,7 @@
 * [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
 * [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg)
 * [Dan Vega](https://www.youtube.com/danvega)
-
+* [Alessandro Castellani](https://www.youtube.com/user/williamprey)
 
 
 ### Informational
