@@ -426,6 +426,7 @@
 * [BettaTech](https://www.youtube.com/c/BettaTech)
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
+* [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
 * [DominiCODE](https://www.youtube.com/c/dominicode)
 
 
