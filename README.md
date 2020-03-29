@@ -124,6 +124,10 @@
 * [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
 * [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg)
 * [Dan Vega](https://www.youtube.com/danvega)
+* [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q/videos)
+* [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw/videos)
+* [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w/videos)
+* [Inspire UI](https://www.youtube.com/user/minhcasi/videos)
 * [Alessandro Castellani](https://www.youtube.com/user/williamprey)
 
 
@@ -176,6 +180,7 @@
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
 * [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 * [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
+* [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos)
 * [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 
 
@@ -291,6 +296,7 @@
 * [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ/featured)
 * [7Sharp9](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg)
 * [Full Stack Amigo](https://www.youtube.com/channel/UCPhwmUt3D2eyZW_hRlKhkHQ)
+* [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng)
 
 ### Retired
 > These channels haven't uploaded in the last six months.
@@ -326,6 +332,9 @@
 * [Brent Aureli's - Code School](https://www.youtube.com/user/Profyx)
 * [Cave of Programming](https://www.youtube.com/user/caveofprogramming)
 * [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
+* [Code Artistry](https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A/videos)
+* [Coders Hub](https://www.youtube.com/channel/UCIDlA0FJcpqJHELzdelFAWg/videos)
+* [FlutterDeveloper](https://www.youtube.com/channel/UCa-t2GBQ4UcbDi4vIIwagDg/videos)
 
 # Non English
 
