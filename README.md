@@ -132,7 +132,6 @@
 * [Simple Snippets](https://www.youtube.com/channel/UCRIWTSgd7hGtZhx4RYoASEg)
 
 
-
 ### Informational
 > These channels focus on information about software development and career advice.
 
