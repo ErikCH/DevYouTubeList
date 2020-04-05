@@ -129,6 +129,8 @@
 * [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w/videos)
 * [Inspire UI](https://www.youtube.com/user/minhcasi/videos)
 * [Alessandro Castellani](https://www.youtube.com/user/williamprey)
+* [Simple Snippets](https://www.youtube.com/channel/UCRIWTSgd7hGtZhx4RYoASEg)
+
 
 
 ### Informational
