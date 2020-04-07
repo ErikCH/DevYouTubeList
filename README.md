@@ -7,6 +7,7 @@
     - [Tutorial](#tutorial)
     - [Informational](#informational)
     - [Live Coding](#live-coding)
+    - [Game Development](#game-development)
     - [Software Entertainment](#software-entertainment)
     - [Competitive Programming & Interview Preperation](#competitive-programming-and-interview-preparation)
     - [Up and coming](#up-and-coming)
@@ -27,6 +28,7 @@
     - [Arabic](#arabic)
     - [German](#german)
     - [Polish](#polish)
+    - [Somali](#somali)
 
 
 
@@ -67,7 +69,6 @@
 * [Kevin Powell](https://www.youtube.com/user/KepowOb)
 * [Chris Coyier](https://www.youtube.com/user/realcsstricks)
 * [mmtuts](https://www.youtube.com/user/TheCharmefis)
-* [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ)
 * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 * [CodingTheSmartWay](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ)
 * [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
@@ -88,7 +89,6 @@
 * [Classsed](https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg/videos)
 * [Chris Courses](https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA/videos)
 * [Flutter(Official)](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
-* [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Sykoo](https://www.youtube.com/user/SykooTV)
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 * [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
@@ -117,7 +117,18 @@
 * [VueScreencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/)
 * [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
 * [CodeLit](https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw)
-
+* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+* [Telusko](https://www.youtube.com/user/javaboynavin)
+* [kudvenkat](https://www.youtube.com/user/kudvenkat)
+* [Awais Mirza](https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA)
+* [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
+* [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg)
+* [Dan Vega](https://www.youtube.com/danvega)
+* [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q/videos)
+* [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw/videos)
+* [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w/videos)
+* [Inspire UI](https://www.youtube.com/user/minhcasi/videos)
+* [Alessandro Castellani](https://www.youtube.com/user/williamprey)
 
 
 ### Informational
@@ -152,7 +163,6 @@
 * [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 * [Chris Jereza](https://www.youtube.com/channel/UCPrRsdgsxOmzr9ykAf7tlDw)
 * [Benjamin N. Spak](https://www.youtube.com/user/bnspak)
-* [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 * [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 * [Google Students](https://www.youtube.com/user/GoogleStudents)
 * [TheHappieCat](https://www.youtube.com/user/TheHappieCat)
@@ -169,7 +179,9 @@
 * [Prismic](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/)
 * [Harkirat Singh](https://www.youtube.com/user/harkirat1)
 * [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
-* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+* [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
+* [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos)
+* [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 
 
 
@@ -188,6 +200,22 @@
 * [anthonywritescode](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
 * [More live w/ René Rebe](https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw)
 * [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
+* [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
+* [Tim Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow)
+
+### Game Development
+> These channels focus on game development.
+
+* [Brackeys](https://www.youtube.com/user/Brackeys)
+* [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ)
+* [Gamefromscratch](https://www.youtube.com/user/gamefromscratch)
+* [Jonas Tyroller](https://www.youtube.com/channel/UC_p_9arduPuxM8DHTGIuSOg)
+* [Blackthornprod ](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g)
+* [Snoman Gaming](https://www.youtube.com/user/snomangaming)
+* [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+* [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
+* [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
+* [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
 
 
 ### Software Entertainment
@@ -204,7 +232,7 @@
 * [Life of Luba](https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ)
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-
+* [Jarvis Johnson](https://www.youtube.com/user/VSympathyV)
 
 ### Competitive Programming And Interview Preparation
 > These channels focuses mainly upon DS & Algorithms along with interview preparation.
@@ -259,10 +287,16 @@
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
-* [Cody Seibert](https://youtube.com/c/codyseibert)
 * [The Renegade Coder](https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw)
 * [Chill and Hack with Joel](https://www.youtube.com/channel/UCmLNckliLBW_42UWGD9ITxQ)
 * [DevHoot](https://www.youtube.com/channel/UCV-F9TgeC_bSEdHH9qDfqXw)
+* [Leigh Halliday](https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ)
+* [Nick Chapsas](https://www.youtube.com/user/ElfocrashDev)
+* [Romanian Coder](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw)
+* [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ/featured)
+* [7Sharp9](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg)
+* [Full Stack Amigo](https://www.youtube.com/channel/UCPhwmUt3D2eyZW_hRlKhkHQ)
+* [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng)
 
 ### Retired
 > These channels haven't uploaded in the last six months.
@@ -293,6 +327,14 @@
 * [howCode](https://www.youtube.com/user/CreatiiveCode/videos)
 * [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign/videos)
 * [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+* [Coding Math](https://www.youtube.com/user/codingmath)
+* [BBarters](https://www.youtube.com/channel/UCFlzHaNC_YJTIRoXbx6zfrA)
+* [Brent Aureli's - Code School](https://www.youtube.com/user/Profyx)
+* [Cave of Programming](https://www.youtube.com/user/caveofprogramming)
+* [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
+* [Code Artistry](https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A/videos)
+* [Coders Hub](https://www.youtube.com/channel/UCIDlA0FJcpqJHELzdelFAWg/videos)
+* [FlutterDeveloper](https://www.youtube.com/channel/UCa-t2GBQ4UcbDi4vIIwagDg/videos)
 
 # Non English
 
@@ -325,6 +367,12 @@
 * [Durgasoft solutions](https://www.youtube.com/user/durgasoftware)
 * [Technical Suneja](https://www.youtube.com/channel/UCHIbErciyS3Hs0kjAz-at5Q)
 * [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
+* [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+* [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w)
+* [Geeky Shows](https://www.youtube.com/user/GeekyShow1)
+* [KNOWLEDGE GATE](https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ/)
+* [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
+* [Bhagwan Singh Vishwakarma](https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw)
 
 
 ## Turkish
@@ -358,17 +406,27 @@
 
 
 ## Bengali
-* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+* [Anisul Islam](https://www.youtube.com/user/ANIS3730)
+* [Codeonces](https://www.youtube.com/channel/UC003ZRmU5IdxoHDjmrOaO7w)
 * [Dimik Computing](https://www.youtube.com/channel/UC29OOZhABBZ_qqQKkcwpIuQ)
-* [Tamim Shahriar](https://www.youtube.com/channel/UCFsbfRphhQfPFJrwKb7s3JA)
 * [Machine Learning। মেশিন লার্নিং । হাতে কলমে](https://www.youtube.com/channel/UC4RrCd2anEWtZJr9_wX76kA)
+* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+* [Tamim Shahriar](https://www.youtube.com/channel/UCFsbfRphhQfPFJrwKb7s3JA)
+* [Zulkarnine Mahmud](https://www.youtube.com/user/zulkarnine2076)
+* [Learn with Hasin Hayder](https://www.youtube.com/user/countdraculla16)
+* [Sharif Chowdhury](https://www.youtube.com/user/shariftech)
+* [LoveExtendsCode](https://www.youtube.com/user/dipmessi10)
+* [Sayef Reyadh - Programming Made Simple](https://www.youtube.com/channel/UCMrXkqBzR71QsTxuwIJalGg)
+
 
 
 ## Spanish
 
+* [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
+* [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
 * [DominiCODE](https://www.youtube.com/c/dominicode)
 
 
@@ -380,6 +438,7 @@
 * [Graven](https://www.youtube.com/user/Gravenilvectuto)
 * [Benjamin Code](https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw)
 * [PrimFX](https://www.youtube.com/user/primfxdesign)
+* [getCodingKnowledge](https://www.youtube.com/channel/UCUjo_IKa9Cqkx_x-rMly8MA)
 
 
 
@@ -402,6 +461,7 @@
 * [Daniel Snows](https://www.youtube.com/channel/UCfDenO9v3NpxzE32hAdW36Q)
 * [Código Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg)
 * [Eduardo Pires](https://www.youtube.com/user/headfox)
+* [Eduardo Albuquerque](https://www.youtube.com/channel/UC8u-WRHndyT2VwOAwXP4Fgw)
 * [Tiago Matos](https://www.youtube.com/user/tiagomatosweb)
 * [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 * [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
@@ -417,6 +477,7 @@
 * [Neto Marin](https://www.youtube.com/user/netomarin)
 * [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
 * [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
+* [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
 
 
 ## Korean
@@ -438,6 +499,7 @@
 * [HOWLAB](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
 * [레트로 retr0](https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ)
 * [안드로이드 생존코딩](https://www.youtube.com/channel/UCz9n4yRsYYryRjrSCK0-YWA)
+* [코지 코더 Kossie Coder](https://www.youtube.com/channel/UCI4tTBupvhMX1aWDSm-HAXw)
 
 
 
@@ -539,3 +601,6 @@
 ##### Live Coding
 * [Hubert Moszka](https://www.youtube.com/channel/UCnVDvEpH2H7Hm2D9i718gbA)
 * [GynvaelColdwind](https://www.youtube.com/user/GynvaelColdwind)
+
+## Somali
+* [Duraan Ali](https://www.youtube.com/duraanali)
