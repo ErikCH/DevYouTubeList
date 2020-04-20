@@ -265,6 +265,7 @@
 * [Anthony Sistilli](https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg)
 * [Tech Dummies - Narendra L](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
+* [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
 
 
 
