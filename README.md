@@ -130,6 +130,10 @@
 * [Inspire UI](https://www.youtube.com/user/minhcasi/videos)
 * [Alessandro Castellani](https://www.youtube.com/user/williamprey)
 * [Context Free](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA)
+* [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
+* [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
+* [techsith](https://www.youtube.com/user/techSithTube)
+* [Chuck Severance](https://www.youtube.com/user/csev/featured)
 
 
 ### Informational
@@ -261,6 +265,7 @@
 * [Anthony Sistilli](https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg)
 * [Tech Dummies - Narendra L](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
+* [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
 
 
 
