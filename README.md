@@ -133,6 +133,7 @@
 * [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
 * [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
 * [techsith](https://www.youtube.com/user/techSithTube)
+* [Chuck Severance](https://www.youtube.com/user/csev/featured)
 
 
 ### Informational
