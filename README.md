@@ -24,6 +24,7 @@
     - [Hebrew](#hebrew)
     - [French](#french)
     - [Spanish](#spanish)
+    - [Catalan](#catalan)
     - [Indonesian](#indonesian)
     - [Arabic](#arabic)
     - [German](#german)
