@@ -24,6 +24,7 @@
     - [Hebrew](#hebrew)
     - [French](#french)
     - [Spanish](#spanish)
+    - [Catalan](#catalan)
     - [Indonesian](#indonesian)
     - [Arabic](#arabic)
     - [German](#german)
@@ -274,6 +275,7 @@
 ### Up And Coming
 > These channels have less than a thousand subscribers or less than 10000 views a month.
 
+* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
@@ -430,12 +432,18 @@
 
 ## Spanish
 
+* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
 * [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
 * [DominiCODE](https://www.youtube.com/c/dominicode)
+
+
+## Catalan
+
+* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 
 
 ## French
