@@ -24,6 +24,7 @@
     - [Hebrew](#hebrew)
     - [French](#french)
     - [Spanish](#spanish)
+    - [Catalan](#catalan)
     - [Indonesian](#indonesian)
     - [Arabic](#arabic)
     - [German](#german)
@@ -131,6 +132,11 @@
 * [Alessandro Castellani](https://www.youtube.com/user/williamprey)
 * [Context Free](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA)
 * [Simple Snippets](https://www.youtube.com/channel/UCRIWTSgd7hGtZhx4RYoASEg)
+* [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
+* [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
+* [techsith](https://www.youtube.com/user/techSithTube)
+* [Chuck Severance](https://www.youtube.com/user/csev/featured)
+* [Scaler Academy](https://www.youtube.com/scaleracademy)
 
 
 ### Informational
@@ -262,6 +268,7 @@
 * [Anthony Sistilli](https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg)
 * [Tech Dummies - Narendra L](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
+* [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
 
 
 
@@ -269,6 +276,7 @@
 ### Up And Coming
 > These channels have less than a thousand subscribers or less than 10000 views a month.
 
+* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
@@ -425,12 +433,18 @@
 
 ## Spanish
 
+* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
 * [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
 * [DominiCODE](https://www.youtube.com/c/dominicode)
+
+
+## Catalan
+
+* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 
 
 ## French
