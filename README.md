@@ -131,6 +131,7 @@
 * [Inspire UI](https://www.youtube.com/user/minhcasi/videos)
 * [Alessandro Castellani](https://www.youtube.com/user/williamprey)
 * [Context Free](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA)
+* [Simple Snippets](https://www.youtube.com/channel/UCRIWTSgd7hGtZhx4RYoASEg)
 * [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
 * [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
 * [techsith](https://www.youtube.com/user/techSithTube)
