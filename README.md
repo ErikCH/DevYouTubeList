@@ -134,6 +134,7 @@
 * [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
 * [techsith](https://www.youtube.com/user/techSithTube)
 * [Chuck Severance](https://www.youtube.com/user/csev/featured)
+* [Scaler Academy](https://www.youtube.com/scaleracademy)
 
 
 ### Informational
