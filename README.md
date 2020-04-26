@@ -130,6 +130,7 @@
 * [Inspire UI](https://www.youtube.com/user/minhcasi/videos)
 * [Alessandro Castellani](https://www.youtube.com/user/williamprey)
 * [Context Free](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA)
+* [Scaler Academy](https://www.youtube.com/scaleracademy)
 
 
 ### Informational
