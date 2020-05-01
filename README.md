@@ -137,6 +137,7 @@
 * [techsith](https://www.youtube.com/user/techSithTube)
 * [Chuck Severance](https://www.youtube.com/user/csev/featured)
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
+* [TheDevWay](https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ)
 
 
 ### Informational
@@ -190,6 +191,7 @@
 * [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
 * [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos)
 * [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+* [TheDevWay](https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ)
 
 
 
