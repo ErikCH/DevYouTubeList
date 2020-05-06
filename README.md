@@ -9,7 +9,7 @@
     - [Live Coding](#live-coding)
     - [Game Development](#game-development)
     - [Software Entertainment](#software-entertainment)
-    - [Competitive Programming & Interview Preperation](#competitive-programming-and-interview-preparation)
+    - [Competitive Programming & Interview Preparation](#competitive-programming-and-interview-preparation)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
     ### Non English
@@ -36,7 +36,7 @@
 # Resources
 
 ### Tutorial
-> These channels focus on tutorials and code alongs.
+> These channels focus on tutorials and code along.
 
 * [Program With Erik](http://erik.video)
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
@@ -495,6 +495,7 @@
 * [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
 * [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
+* [Programa aí!](https://www.youtube.com/channel/UCPKu2Zp7kvKyGGud876DAoA)
 
 
 ## Korean
