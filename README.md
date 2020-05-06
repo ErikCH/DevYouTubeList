@@ -137,7 +137,7 @@
 * [techsith](https://www.youtube.com/user/techSithTube)
 * [Chuck Severance](https://www.youtube.com/user/csev/featured)
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
-
+* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 
 ### Informational
 > These channels focus on information about software development and career advice.
