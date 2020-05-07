@@ -495,7 +495,7 @@
 * [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
 * [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
-
+* [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
 
 ## Korean
 
