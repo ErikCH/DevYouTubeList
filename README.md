@@ -435,11 +435,20 @@
 
 * [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
+* [Antonio Sarosi](https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA)
+* [Appdelante](https://www.youtube.com/channel/UCJlT-NI_6xxLuuRjN8HNJDQ)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
-* [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
+* [Centripio](https://www.youtube.com/channel/UCPlebrKN1g5srzTPrXRjwKg)
 * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
-* [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
+* [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
 * [DominiCODE](https://www.youtube.com/c/dominicode)
+* [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
+* [José Dimas Luján Castillo](https://www.youtube.com/channel/UC17hjKubJGdyPbWI5jvyiVg)
+* [Latincoder](https://www.youtube.com/channel/UCNhumBIUSP9G0O5DBoWSHVg)
+* [Makigas](https://www.youtube.com/channel/UCQufRmIMRTLdRxTsXCh4-5w)
+* [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
+* [Pelado Nerd](https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g)
+* [That C# guy](https://www.youtube.com/channel/UC8KCb358oioQMcJ5pUfs8UQ)
 
 
 ## Catalan
