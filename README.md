@@ -137,7 +137,7 @@
 * [techsith](https://www.youtube.com/user/techSithTube)
 * [Chuck Severance](https://www.youtube.com/user/csev/featured)
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
-
+* [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -295,7 +295,6 @@
 * [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
-* [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
 * [The Renegade Coder](https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw)
 * [Chill and Hack with Joel](https://www.youtube.com/channel/UCmLNckliLBW_42UWGD9ITxQ)
