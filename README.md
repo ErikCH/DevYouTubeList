@@ -9,7 +9,7 @@
     - [Live Coding](#live-coding)
     - [Game Development](#game-development)
     - [Software Entertainment](#software-entertainment)
-    - [Competitive Programming & Interview Preperation](#competitive-programming-and-interview-preparation)
+    - [Competitive Programming & Interview Preparation](#competitive-programming-and-interview-preparation)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
     ### Non English
@@ -36,7 +36,7 @@
 # Resources
 
 ### Tutorial
-> These channels focus on tutorials and code alongs.
+> These channels focus on tutorials and code along.
 
 * [Program With Erik](http://erik.video)
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
@@ -137,7 +137,7 @@
 * [techsith](https://www.youtube.com/user/techSithTube)
 * [Chuck Severance](https://www.youtube.com/user/csev/featured)
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
-
+* [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -295,7 +295,6 @@
 * [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
-* [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
 * [The Renegade Coder](https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw)
 * [Chill and Hack with Joel](https://www.youtube.com/channel/UCmLNckliLBW_42UWGD9ITxQ)
@@ -307,6 +306,8 @@
 * [7Sharp9](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg)
 * [Full Stack Amigo](https://www.youtube.com/channel/UCPhwmUt3D2eyZW_hRlKhkHQ)
 * [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng)
+* [React Tutorial](https://www.youtube.com/channel/UC9cRN7SY-wtngLuAXmx_8VQ)
+
 
 ### Retired
 > These channels haven't uploaded in the last six months.
@@ -435,11 +436,20 @@
 
 * [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
+* [Antonio Sarosi](https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA)
+* [Appdelante](https://www.youtube.com/channel/UCJlT-NI_6xxLuuRjN8HNJDQ)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
-* [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
+* [Centripio](https://www.youtube.com/channel/UCPlebrKN1g5srzTPrXRjwKg)
 * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
-* [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
+* [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
 * [DominiCODE](https://www.youtube.com/c/dominicode)
+* [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
+* [José Dimas Luján Castillo](https://www.youtube.com/channel/UC17hjKubJGdyPbWI5jvyiVg)
+* [Latincoder](https://www.youtube.com/channel/UCNhumBIUSP9G0O5DBoWSHVg)
+* [Makigas](https://www.youtube.com/channel/UCQufRmIMRTLdRxTsXCh4-5w)
+* [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
+* [Pelado Nerd](https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g)
+* [That C# guy](https://www.youtube.com/channel/UC8KCb358oioQMcJ5pUfs8UQ)
 
 
 ## Catalan
@@ -493,9 +503,11 @@
 * [Flutterando](https://www.youtube.com/user/jacobaraujo7)
 * [Neto Marin](https://www.youtube.com/user/netomarin)
 * [Peixe Babel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
+* [Universo Discreto](https://www.youtube.com/channel/UCEn6kONg6EC_Ylh0RlInsMw)
 * [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
 * [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
+* [Programa aí!](https://www.youtube.com/channel/UCPKu2Zp7kvKyGGud876DAoA)
 
 ## Korean
 
