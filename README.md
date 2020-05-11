@@ -41,9 +41,6 @@
 * [Program With Erik](http://erik.video)
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
-* [edureka!](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
-* [Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg)
-* [Intellipaat](https://www.youtube.com/user/intellipaaat)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
@@ -140,7 +137,13 @@
 * [techsith](https://www.youtube.com/user/techSithTube)
 * [Chuck Severance](https://www.youtube.com/user/csev/featured)
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
-
+* [edureka!](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
+* [Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg)
+* [Intellipaat](https://www.youtube.com/user/intellipaaat)
+* [Great Learning](https://www.youtube.com/user/beaconelearning)
+* [Simplilearn - DevOps Tutorial For Beginners](https://www.youtube.com/channel/UCzm61TDWRGimc1Ab2Hnyj1w)
+* [Updgree](https://www.youtube.com/channel/UCn4Y0Ej7Vu3rO84e_aD28lg)
+* [NetworKing](https://www.youtube.com/user/NetworKingInc/videos)
 
 ### Informational
 > These channels focus on information about software development and career advice.
