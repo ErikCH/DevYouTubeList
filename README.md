@@ -33,9 +33,9 @@
 
 
 
-# Resources
+# Resources[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
-### Tutorial
+### Tutorial[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 > These channels focus on tutorials and code along.
 
 * [Program With Erik](http://erik.video)
@@ -139,7 +139,7 @@
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 
-### Informational
+### Informational[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 > These channels focus on information about software development and career advice.
 
 * [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87)
@@ -193,7 +193,7 @@
 
 
 
-### Live Coding
+### Live Coding[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 > These channels live code.
 
 * [Coding Garden With CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
@@ -211,7 +211,7 @@
 * [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
 * [Tim Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow)
 
-### Game Development
+### Game Development[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 > These channels focus on game development.
 
 * [Brackeys](https://www.youtube.com/user/Brackeys)
@@ -226,7 +226,7 @@
 * [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
 
 
-### Software Entertainment
+### Software Entertainment[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 > These channels are focused on entertainment and are more loosely associated with software development.
 
 * [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
@@ -242,7 +242,7 @@
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Jarvis Johnson](https://www.youtube.com/user/VSympathyV)
 
-### Competitive Programming And Interview Preparation
+### Competitive Programming And Interview Preparation[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 > These channels focuses mainly upon DS & Algorithms along with interview preparation.
 
 * [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
@@ -273,7 +273,7 @@
 
 
 
-### Up And Coming
+### Up And Coming[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 > These channels have less than a thousand subscribers or less than 10000 views a month.
 
 * [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
@@ -309,7 +309,7 @@
 * [React Tutorial](https://www.youtube.com/channel/UC9cRN7SY-wtngLuAXmx_8VQ)
 
 
-### Retired
+### Retired[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 > These channels haven't uploaded in the last six months.
 
 * [The New Boston](https://www.youtube.com/user/thenewboston/featured)
@@ -347,9 +347,9 @@
 * [Coders Hub](https://www.youtube.com/channel/UCIDlA0FJcpqJHELzdelFAWg/videos)
 * [FlutterDeveloper](https://www.youtube.com/channel/UCa-t2GBQ4UcbDi4vIIwagDg/videos)
 
-# Non English
+# Non English[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
-## Russian
+## Russian[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 ##### Web Development
 * [webDev](https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
@@ -366,7 +366,7 @@
 * [w23](https://www.youtube.com/user/floba23)
 * [Yuri Artyukh](https://www.youtube.com/channel/UCDo7RTzizoOdPjY8A-xDR7g)
 
-## Hindi
+## Hindi[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [Mentorsadda](https://www.youtube.com/user/Mentorsadda)
 * [edureka! Hindi](https://www.youtube.com/channel/UCywyZ4r4FTKExrPl9rf-ggw)
@@ -386,7 +386,7 @@
 * [Bhagwan Singh Vishwakarma](https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw)
 
 
-## Turkish
+## Turkish[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 ##### Tutorial
 * [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)
@@ -411,12 +411,12 @@
 * [Eser Ozvataf](https://youtube.com/EserOzvataf)
 
 
-## Italian
+## Italian[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
 
 
-## Bengali
+## Bengali[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 * [Anisul Islam](https://www.youtube.com/user/ANIS3730)
 * [Codeonces](https://www.youtube.com/channel/UC003ZRmU5IdxoHDjmrOaO7w)
 * [Dimik Computing](https://www.youtube.com/channel/UC29OOZhABBZ_qqQKkcwpIuQ)
@@ -432,7 +432,7 @@
 
 
 
-## Spanish
+## Spanish[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
@@ -452,12 +452,12 @@
 * [That C# guy](https://www.youtube.com/channel/UC8KCb358oioQMcJ5pUfs8UQ)
 
 
-## Catalan
+## Catalan[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 
 
-## French
+## French[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [Grafikart](https://www.youtube.com/user/grafikarttv)
 * [Développeur Libre](https://www.youtube.com/channel/UCjDg7LaaMzmuhj6I1jTzb1Q)
@@ -469,7 +469,7 @@
 
 
 
-## Brazilian
+## Brazilian[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [BrazilJS](https://www.youtube.com/user/BrazilJS)
 * [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
@@ -509,7 +509,7 @@
 * [Programa aí!](https://www.youtube.com/channel/UCPKu2Zp7kvKyGGud876DAoA)
 
 
-## Korean
+## Korean[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [생활코딩](https://www.youtube.com/user/egoing2)
 * [포프TV](https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ)
@@ -532,11 +532,11 @@
 
 
 
-## Chinese
+## Chinese[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [Go 夜读](https://www.youtube.com/channel/UCZwrjDu5Rf6O_CX2CVx7n8Q)
 
-## Hebrew
+## Hebrew[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [GoCode](https://www.youtube.com/c/GoCodeSderot)
 * [JavaScript Israel](https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g)
@@ -549,7 +549,7 @@
 * [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
 
 
-## Indonesian
+## Indonesian[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 
 * [Taman Kode-Kode](https://www.youtube.com/c/tamankodekode)
 * [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
@@ -565,7 +565,7 @@
 * [Framework Indonesia](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 * [idr corner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
 
-## Arabic
+## Arabic[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 ##### Android Apps Development
 * [Hendiware](https://www.youtube.com/channel/UC4fCtqpNFVtPEDAiym7Um3A)
 * [coding with nerds](https://www.youtube.com/channel/UCnDAXfhnL5j-KhHc1KhvXHw)
@@ -611,12 +611,12 @@
 * [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
 
 
-## German
+## German[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 * [zekro](https://www.youtube.com/user/Zekrommaster110)
 * [The Morpheus Tutorials](https://www.youtube.com/user/TheMorpheus407)
 
 
-## Polish
+## Polish[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 ##### Tutorial
 * [overment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg)
 * [hello roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g)
@@ -631,5 +631,5 @@
 * [Hubert Moszka](https://www.youtube.com/channel/UCnVDvEpH2H7Hm2D9i718gbA)
 * [GynvaelColdwind](https://www.youtube.com/user/GynvaelColdwind)
 
-## Somali
+## Somali[⬆](#amazing-developers-on-youtube)<!-- Link generated with jump2header -->
 * [Duraan Ali](https://www.youtube.com/duraanali)
