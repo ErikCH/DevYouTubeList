@@ -276,7 +276,6 @@
 ### Up And Coming
 > These channels have less than a thousand subscribers or less than 10000 views a month.
 
-* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
@@ -435,7 +434,6 @@
 
 ## Spanish
 
-* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
 * [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
 * [Antonio Sarosi](https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA)
 * [Appdelante](https://www.youtube.com/channel/UCJlT-NI_6xxLuuRjN8HNJDQ)
@@ -455,7 +453,7 @@
 
 ## Catalan
 
-* [AlbiaSoft](https://www.youtube.com/channel/UCoKrqNpyxBb6UQUoOQBhndg)
+* [AlbiaSoft](https://www.youtube.com/channel/UCPtmCNFt8h0AbaHw8ODUIpg)
 
 
 ## French
