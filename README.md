@@ -307,6 +307,7 @@
 * [Full Stack Amigo](https://www.youtube.com/channel/UCPhwmUt3D2eyZW_hRlKhkHQ)
 * [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng)
 * [React Tutorial](https://www.youtube.com/channel/UC9cRN7SY-wtngLuAXmx_8VQ)
+* [TheDevWay](https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ)
 
 
 ### Retired
