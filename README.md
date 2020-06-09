@@ -291,7 +291,7 @@
 * [Junio Developer Central](https://www.youtube.com/channel/UCuvTObpdx__W966kbdIZ4_Q)
 * [Fredrik Christenson](https://www.youtube.com/user/Fidde12345)
 * [Better Coding Academy](https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA)
-* [All things JavaScript, LLC](https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w)\
+* [All things JavaScript, LLC](https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w)
 * [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
