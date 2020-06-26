@@ -509,11 +509,11 @@
 * [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)
 * [Willian Justen](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ)
 * [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA)
-* [Fabio Vedovelli](https://www.youtube.com/channel/UC1PUtdA_NktdtmRpF_UGG_w)
 * [Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
 * [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)
 * [VueJS Norte](https://www.youtube.com/channel/UCYyYXAdZisrAScOlG6w9KHQ)
 * [Origamid](https://www.youtube.com/user/origamidlabs)
+
 
 ## Korean
 
