@@ -194,6 +194,7 @@
 * [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos)
 * [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 * [Python Programmer](https://www.youtube.com/user/consumerchampion)
+* [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
 
 
 
