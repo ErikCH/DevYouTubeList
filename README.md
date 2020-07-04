@@ -387,6 +387,7 @@
 * [KNOWLEDGE GATE](https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ/)
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 * [Bhagwan Singh Vishwakarma](https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw)
+* [Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA)
 
 
 ## Turkish
