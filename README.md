@@ -139,6 +139,7 @@
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
+* [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 
 ### Informational
 > These channels focus on information about software development and career advice.
