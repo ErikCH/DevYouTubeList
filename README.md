@@ -138,6 +138,7 @@
 * [Chuck Severance](https://www.youtube.com/user/csev/featured)
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
+* [Maksim Ivanov](https://www.youtube.com/user/satansdeer1)
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -365,6 +366,7 @@
 * [Sorax](https://www.youtube.com/user/ArtSorax)
 * [w23](https://www.youtube.com/user/floba23)
 * [Yuri Artyukh](https://www.youtube.com/channel/UCDo7RTzizoOdPjY8A-xDR7g)
+* [Aida Drogan #BlondieCode](https://www.youtube.com/channel/UCSsg9NLCse2XQCIRgfmJu3Q)
 
 ## Hindi
 
