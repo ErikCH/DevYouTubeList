@@ -211,6 +211,7 @@
 * [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
 * [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
 * [Tim Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow)
+* [Jack Herrington](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw)
 
 ### Game Development
 > These channels focus on game development.
