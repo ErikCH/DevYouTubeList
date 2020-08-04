@@ -107,7 +107,6 @@
 * [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
 * [CodeBlobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
-* [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [codeSTACKr](https://www.youtube.com/codestackr)
 * [Claudio Bernasconi](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw)
 * [ResoCoder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
@@ -138,6 +137,7 @@
 * [Chuck Severance](https://www.youtube.com/user/csev/featured)
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
+* [Maksim Ivanov](https://www.youtube.com/user/satansdeer1)
 * [That DevOps Guy](https://www.youtube.com/c/marceldempers)
 
 ### Informational
@@ -211,6 +211,7 @@
 * [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
 * [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
 * [Tim Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow)
+* [Jack Herrington](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw)
 
 ### Game Development
 > These channels focus on game development.
@@ -308,6 +309,7 @@
 * [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng)
 * [React Tutorial](https://www.youtube.com/channel/UC9cRN7SY-wtngLuAXmx_8VQ)
 * [TheDevWay](https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ)
+* [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 
 
 ### Retired
@@ -366,6 +368,7 @@
 * [Sorax](https://www.youtube.com/user/ArtSorax)
 * [w23](https://www.youtube.com/user/floba23)
 * [Yuri Artyukh](https://www.youtube.com/channel/UCDo7RTzizoOdPjY8A-xDR7g)
+* [Aida Drogan #BlondieCode](https://www.youtube.com/channel/UCSsg9NLCse2XQCIRgfmJu3Q)
 
 ## Hindi
 
@@ -507,6 +510,13 @@
 * [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
 * [Programa aí!](https://www.youtube.com/channel/UCPKu2Zp7kvKyGGud876DAoA)
+* [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)
+* [Willian Justen](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ)
+* [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA)
+* [Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
+* [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)
+* [VueJS Norte](https://www.youtube.com/channel/UCYyYXAdZisrAScOlG6w9KHQ)
+* [Origamid](https://www.youtube.com/user/origamidlabs)
 
 
 ## Korean
