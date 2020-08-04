@@ -107,7 +107,6 @@
 * [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
 * [CodeBlobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
-* [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [codeSTACKr](https://www.youtube.com/codestackr)
 * [Claudio Bernasconi](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw)
 * [ResoCoder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
@@ -211,6 +210,7 @@
 * [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
 * [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
 * [Tim Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow)
+* [Jack Herrington](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw)
 
 ### Game Development
 > These channels focus on game development.
@@ -310,6 +310,8 @@
 * [TheDevWay](https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ)
 * [Recoding](https://www.youtube.com/channel/UCnhsNyu4bdDxuW1TT3hg-pg)
 * [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
+* [Nick Janetakis](https://www.youtube.com/NickJanetakis)
+
 
 ### Retired
 > These channels haven't uploaded in the last six months.
