@@ -138,6 +138,7 @@
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Maksim Ivanov](https://www.youtube.com/user/satansdeer1)
+* [Harry Wolff](https://www.youtube.com/c/hswolff)
 
 ### Informational
 > These channels focus on information about software development and career advice.
