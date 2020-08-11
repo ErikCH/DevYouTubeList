@@ -138,6 +138,8 @@
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Maksim Ivanov](https://www.youtube.com/user/satansdeer1)
+* [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
+
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -190,6 +192,7 @@
 * [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
 * [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos)
 * [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+* [Healthy Software Developer](https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ)
 
 
 
@@ -309,6 +312,7 @@
 * [React Tutorial](https://www.youtube.com/channel/UC9cRN7SY-wtngLuAXmx_8VQ)
 * [TheDevWay](https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
+* [Code Mortals](https://www.youtube.com/codemortals)
 
 
 ### Retired
