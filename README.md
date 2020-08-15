@@ -30,6 +30,7 @@
     - [German](#german)
     - [Polish](#polish)
     - [Somali](#somali)
+    - [Vietnam](#vietnam)
 
 
 
@@ -642,3 +643,10 @@
 
 ## Somali
 * [Duraan Ali](https://www.youtube.com/duraanali)
+
+## Vietnam
+* [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog/)
+* [Khánh Hùng - Đời sống lập trình viên](https://www.youtube.com/channel/UC7fa4gY0-2IU-19L-SjMivA)
+* [Lập trình viên TV](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
+* [Thư Viện Lập Trình](https://www.youtube.com/c/ThuvienlaptrinhEduVn)
+* [CodersX](https://www.youtube.com/c/CodersX)
