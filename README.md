@@ -279,6 +279,30 @@
 * [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
 
 
+### Artificial Intelligence and Machine Learning
+
+* [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+* [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+* [sentdex](https://www.youtube.com/user/sentdex)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Welch Labs](https://www.youtube.com/user/Taylorns34)
+* [Data School](https://www.youtube.com/user/dataschool)
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Lex Fridman](https://www.youtube.com/user/lexfridman)
+* [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
+* [ArXiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+* [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/featured)
+* [Kaggle](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
+* [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
+* [TensorFlow](http://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+* [The Artificial Intelligence Channel](http://www.youtube.com/user/Maaaarth)
+* [ MITCSAIL](http://www.youtube.com/user/MITCSAIL)
+* [Applied AI Course](http://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ)
+* [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
+* [MLAIT](https://www.youtube.com/c/MLAIT)
+* [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+* [SethBling](https://www.youtube.com/user/sethbling)
+
 
 
 ### Up And Coming
