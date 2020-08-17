@@ -139,6 +139,10 @@
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Maksim Ivanov](https://www.youtube.com/user/satansdeer1)
 * [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
+* [That DevOps Guy](https://www.youtube.com/c/marceldempers)
+* [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
+* [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+* [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
 
 
 ### Informational
@@ -169,7 +173,7 @@
 * [Joshua Fluke](https://www.youtube.com/user/Tychos1)
 * [Tech Lead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 * [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
-* [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)
+* [Aaron Jack](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)
 * [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 * [Chris Jereza](https://www.youtube.com/channel/UCPrRsdgsxOmzr9ykAf7tlDw)
 * [Benjamin N. Spak](https://www.youtube.com/user/bnspak)
@@ -193,6 +197,8 @@
 * [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos)
 * [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
 * [Healthy Software Developer](https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ)
+* [Python Programmer](https://www.youtube.com/user/consumerchampion)
+* [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
 
 
 
@@ -275,6 +281,30 @@
 * [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
 
 
+### Artificial Intelligence and Machine Learning
+
+* [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+* [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+* [sentdex](https://www.youtube.com/user/sentdex)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Welch Labs](https://www.youtube.com/user/Taylorns34)
+* [Data School](https://www.youtube.com/user/dataschool)
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Lex Fridman](https://www.youtube.com/user/lexfridman)
+* [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
+* [ArXiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+* [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/featured)
+* [Kaggle](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
+* [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
+* [TensorFlow](http://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+* [The Artificial Intelligence Channel](http://www.youtube.com/user/Maaaarth)
+* [ MITCSAIL](http://www.youtube.com/user/MITCSAIL)
+* [Applied AI Course](http://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ)
+* [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
+* [MLAIT](https://www.youtube.com/c/MLAIT)
+* [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+* [SethBling](https://www.youtube.com/user/sethbling)
+
 
 
 ### Up And Coming
@@ -302,6 +332,7 @@
 * [The Renegade Coder](https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw)
 * [Chill and Hack with Joel](https://www.youtube.com/channel/UCmLNckliLBW_42UWGD9ITxQ)
 * [DevHoot](https://www.youtube.com/channel/UCV-F9TgeC_bSEdHH9qDfqXw)
+* [CodeColony](https://www.youtube.com/channel/UCGH2M3sQCx-7JDbvjvjThFA)
 * [Leigh Halliday](https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ)
 * [Nick Chapsas](https://www.youtube.com/user/ElfocrashDev)
 * [Romanian Coder](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw)
@@ -311,6 +342,8 @@
 * [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng)
 * [React Tutorial](https://www.youtube.com/channel/UC9cRN7SY-wtngLuAXmx_8VQ)
 * [TheDevWay](https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ)
+* [Recoding](https://www.youtube.com/channel/UCnhsNyu4bdDxuW1TT3hg-pg)
+* [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 * [Code Mortals](https://www.youtube.com/codemortals)
 
@@ -391,6 +424,7 @@
 * [KNOWLEDGE GATE](https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ/)
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 * [Bhagwan Singh Vishwakarma](https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw)
+* [Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA)
 
 
 ## Turkish
@@ -483,7 +517,7 @@
 * [DevPrimata](https://www.youtube.com/channel/UCesuGTDZsIt1Z9NfiSGE3yg)
 * [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
-* [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
+* [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 * [José Carlos Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)
 * [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 * [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
@@ -572,11 +606,14 @@
 * [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 * [MastahCode](https://www.youtube.com/channel/UCWjyFg2q0Gnu9kbN_hDSpJQ)
 * [YukCoding](https://www.youtube.com/channel/UCkIiNw-qbCy_NHZeg8BNsMQ)
-* [Kawan Coding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
+* [Kawan Koding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
 * [IDStack](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
 * [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 * [Framework Indonesia](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 * [idr corner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
+* [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo/)
+* [CodeWithIhwan](https://www.youtube.com/c/CodeWithIhwan/)
+* [Indra Gunawan](https://www.youtube.com/c/indragunawandotcom/)
 
 ## Arabic
 ##### Android Apps Development
