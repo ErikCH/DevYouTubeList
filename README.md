@@ -579,11 +579,14 @@
 * [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 * [MastahCode](https://www.youtube.com/channel/UCWjyFg2q0Gnu9kbN_hDSpJQ)
 * [YukCoding](https://www.youtube.com/channel/UCkIiNw-qbCy_NHZeg8BNsMQ)
-* [Kawan Coding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
+* [Kawan Koding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
 * [IDStack](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
 * [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 * [Framework Indonesia](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 * [idr corner](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
+* [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo/)
+* [CodeWithIhwan](https://www.youtube.com/c/CodeWithIhwan/)
+* [Indra Gunawan](https://www.youtube.com/c/indragunawandotcom/)
 
 ## Arabic
 ##### Android Apps Development
