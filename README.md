@@ -471,6 +471,11 @@
 * [LoveExtendsCode](https://www.youtube.com/user/dipmessi10)
 * [Sayef Reyadh - Programming Made Simple](https://www.youtube.com/channel/UCMrXkqBzR71QsTxuwIJalGg)
 * [Code For Food](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
+* [Webdeveloper BD](https://www.youtube.com/channel/UCZvv8EtSuh9PUhUBv0f8_CA)
+* [Programming Adda](https://www.youtube.com/channel/UCSIuMz5fRAEmxK3ruloG6ww)
+* [JS Bangladesh](https://www.youtube.com/user/udbhot)
+* [Zonayed Ahmed](https://www.youtube.com/user/zonayedpcayahoocom)
+
 
 
 
