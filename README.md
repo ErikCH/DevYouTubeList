@@ -475,6 +475,11 @@
 * [Programming Adda](https://www.youtube.com/channel/UCSIuMz5fRAEmxK3ruloG6ww)
 * [JS Bangladesh](https://www.youtube.com/user/udbhot)
 * [Zonayed Ahmed](https://www.youtube.com/user/zonayedpcayahoocom)
+* [Dev Stack](https://www.youtube.com/channel/UCE9YNto5Fc8u7DdOTuCm8rw)
+* [Developer Jillur](https://www.youtube.com/channel/UCtL1A8QP4hLUx9vAy8mgvSw)
+* [GroupBros](https://www.youtube.com/channel/UCJ_ApclSJcOmEMS8931_2nA)
+* [Rasel Ahmed](https://www.youtube.com/channel/UC94qXY-Icq1xaoGCQI11-mw)
+* [RR Foundation Bangladesh](https://www.youtube.com/c/rrfdhaka/videos)
 
 
 
