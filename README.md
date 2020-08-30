@@ -386,6 +386,7 @@
 * [Code Artistry](https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A/videos)
 * [Coders Hub](https://www.youtube.com/channel/UCIDlA0FJcpqJHELzdelFAWg/videos)
 * [FlutterDeveloper](https://www.youtube.com/channel/UCa-t2GBQ4UcbDi4vIIwagDg/videos)
+* [mycodeschool](https://www.youtube.com/user/mycodeschool/featured)
 
 # Non English
 
