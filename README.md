@@ -305,6 +305,7 @@
 * [MLAIT](https://www.youtube.com/c/MLAIT)
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 * [SethBling](https://www.youtube.com/user/sethbling)
+* [Jeremy Howard](https://www.youtube.com/user/howardjeremyp)
 
 
 
@@ -474,8 +475,7 @@
 * [Webdeveloper BD](https://www.youtube.com/channel/UCZvv8EtSuh9PUhUBv0f8_CA)
 * [Programming Adda](https://www.youtube.com/channel/UCSIuMz5fRAEmxK3ruloG6ww)
 * [JS Bangladesh](https://www.youtube.com/user/udbhot)
-* [Zonayed Ahmed](https://www.youtube.com/user/zonayedpcayahoocom)
-
+* [Klassroom](https://www.youtube.com/c/KlassroomGlobal)
 
 
 
