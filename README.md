@@ -200,6 +200,7 @@
 * [Healthy Software Developer](https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ)
 * [Python Programmer](https://www.youtube.com/user/consumerchampion)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
+* [Sam Hogan](https://www.youtube.com/user/XTtramptricks)
 
 
 
@@ -235,6 +236,7 @@
 * [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 * [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
 * [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
+* [Sam Hogan](https://www.youtube.com/user/XTtramptricks)
 
 
 ### Software Entertainment
@@ -347,6 +349,7 @@
 * [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 * [Code Mortals](https://www.youtube.com/codemortals)
+* [Sam Hogan](https://www.youtube.com/user/XTtramptricks)
 
 
 ### Retired
