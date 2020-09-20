@@ -200,6 +200,8 @@
 * [Healthy Software Developer](https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ)
 * [Python Programmer](https://www.youtube.com/user/consumerchampion)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
+* [GitHub](https://www.youtube.com/user/github)
+* [GitHub Training & Guides](https://youtube.com/user/GitHubGuides)
 
 
 
