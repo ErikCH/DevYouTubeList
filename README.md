@@ -252,6 +252,7 @@
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Jarvis Johnson](https://www.youtube.com/user/VSympathyV)
+* [Jarvis Johnson! GOLD](https://www.youtube.com/channel/UCR1PVwrPjpz0U_Fbju-BAzQ)
 
 ### Competitive Programming And Interview Preparation
 > These channels focuses mainly upon DS & Algorithms along with interview preparation.
