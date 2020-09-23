@@ -23,6 +23,7 @@
     - [Chinese](#chinese)
     - [Hebrew](#hebrew)
     - [French](#french)
+    - [Farsi](#farsi)
     - [Spanish](#spanish)
     - [Catalan](#catalan)
     - [Indonesian](#indonesian)
@@ -513,6 +514,10 @@
 * [PrimFX](https://www.youtube.com/user/primfxdesign)
 * [getCodingKnowledge](https://www.youtube.com/channel/UCUjo_IKa9Cqkx_x-rMly8MA)
 
+
+## Farsi
+
+* [ParsClick](https://www.youtube.com/c/Parsclicktv)
 
 
 ## Brazilian
