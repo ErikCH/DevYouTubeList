@@ -235,6 +235,8 @@
 * [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 * [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
 * [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
+* [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
+
 
 
 ### Software Entertainment
