@@ -347,7 +347,7 @@
 * [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 * [Code Mortals](https://www.youtube.com/codemortals)
-
+* [veryacademy](https://www.youtube.com/veryacademy/)
 
 ### Retired
 > These channels haven't uploaded in the last six months.
