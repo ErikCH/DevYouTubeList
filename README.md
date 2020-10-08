@@ -200,6 +200,8 @@
 * [Healthy Software Developer](https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ)
 * [Python Programmer](https://www.youtube.com/user/consumerchampion)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
+* [Eddie Jaoude](https://www.youtube.com/user/eddiejaoude)
+
 
 
 
