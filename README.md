@@ -76,6 +76,7 @@
 * [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
 * [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
 * [LearnWebCode](https://www.youtube.com/user/LearnWebCode)
+* [Website Learners](https://www.youtube.com/c/WebsiteLearners)
 * [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw)
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 * [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
@@ -242,6 +243,7 @@
 
 * [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+* [Will Kwan](https://www.youtube.com/channel/UCTjPBE9BNsmv44wgxWEy2zw)
 * [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
 * [CodeParade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
 * [Gyasi Linje](https://www.youtube.com/user/ASEgG100)
