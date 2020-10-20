@@ -426,6 +426,10 @@
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 * [Bhagwan Singh Vishwakarma](https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw)
 * [Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA)
+* [Yahoo Baba](https://www.youtube.com/c/YahooBaba)
+* [Website Learners](https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA)
+* [Web dev](https://www.youtube.com/channel/UCZc238wXqeN2M2uXQaY9MEw)
+* [ProgrammingWithHarry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ)
 
 
 ## Turkish
