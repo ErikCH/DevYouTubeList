@@ -678,6 +678,7 @@
 ## German
 * [zekro](https://www.youtube.com/user/Zekrommaster110)
 * [The Morpheus Tutorials](https://www.youtube.com/user/TheMorpheus407)
+* [Unleashed Design](https://www.youtube.com/user/TheDeepForces)
 
 
 ## Polish
