@@ -145,6 +145,7 @@
 * [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 * [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
+* [The New Boston](https://www.youtube.com/user/thenewboston/featured)
 
 
 ### Informational
@@ -353,7 +354,6 @@
 ### Retired
 > These channels haven't uploaded in the last six months.
 
-* [The New Boston](https://www.youtube.com/user/thenewboston/featured)
 * [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
 * [Adam Khoury](https://www.youtube.com/user/flashbuilding)
 * [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA)
