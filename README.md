@@ -145,6 +145,7 @@
 * [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 * [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
+* [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 
 
 ### Informational
