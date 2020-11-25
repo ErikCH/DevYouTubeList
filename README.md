@@ -479,6 +479,7 @@
 * [Code For Food](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
 * [Webdeveloper BD](https://www.youtube.com/channel/UCZvv8EtSuh9PUhUBv0f8_CA)
 * [Programming Adda](https://www.youtube.com/channel/UCSIuMz5fRAEmxK3ruloG6ww)
+* [Jhankar Mahbub](https://www.youtube.com/c/JhankarMahbub)
 * [JS Bangladesh](https://www.youtube.com/user/udbhot)
 * [Zonayed Ahmed](https://www.youtube.com/user/zonayedpcayahoocom)
 * [Moshiur](https://www.youtube.com/channel/UCcPGGA2RWx6C5o1xl18vUWA)
