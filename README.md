@@ -222,6 +222,7 @@
 * [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
 * [Tim Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow)
 * [Jack Herrington](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw)
+* [Andrew Kelly](https://www.youtube.com/channel/UCUICU6mgcyGy61pojwuWyHA)
 
 ### Game Development
 > These channels focus on game development.
