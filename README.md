@@ -236,6 +236,7 @@
 * [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 * [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
 * [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
+* [Molly Rocket](https://www.youtube.com/user/handmadeheroarchive)
 
 
 ### Software Entertainment
