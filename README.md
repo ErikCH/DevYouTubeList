@@ -705,3 +705,10 @@
 * [Lập trình viên TV](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 * [Thư Viện Lập Trình](https://www.youtube.com/c/ThuvienlaptrinhEduVn)
 * [CodersX](https://www.youtube.com/c/CodersX)
+
+## Bangla
+##### Tutorial
+* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+* [Learn with Hasin Hayder](https://www.youtube.com/user/countdraculla16)
+* [Learn with Sumit](https://www.youtube.com/user/sumitanalyzen)
+* [Khalid Farhan](https://www.youtube.com/channel/UCb-d2dCbEt_T-d3qf3oMICw)
