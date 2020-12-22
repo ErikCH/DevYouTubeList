@@ -484,6 +484,7 @@
 * [Moshiur](https://www.youtube.com/channel/UCcPGGA2RWx6C5o1xl18vUWA)
 * [Procoder BD](https://www.youtube.com/channel/UCruRBI2b_5r9T6mcvIA_5BA)
 * [ITBari](https://www.youtube.com/channel/UCbkTJxYf8LlAvkabh2D4I2g)
+* [Techtong](https://www.youtube.com/channel/UC7SUEMdep7lCz1bXeWCOOtg)
 
 
 
