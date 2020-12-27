@@ -236,6 +236,9 @@
 * [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 * [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
 * [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
+* [Game Endeavor](https://www.youtube.com/channel/UCLweX1UtQjRjj7rs_0XQ2Eg)
+* [Mythic Legion](https://www.youtube.com/channel/UCe2Z885iUhikgNYgpHa_A_A)
+* [Miziziziz](https://www.youtube.com/channel/UCaoqVlqPTH78_xjTjTOMcmQ)
 
 
 ### Software Entertainment
@@ -253,6 +256,7 @@
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Jarvis Johnson](https://www.youtube.com/user/VSympathyV)
+* [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
 
 ### Competitive Programming And Interview Preparation
 > These channels focuses mainly upon DS & Algorithms along with interview preparation.
@@ -349,6 +353,8 @@
 * [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 * [Code Mortals](https://www.youtube.com/codemortals)
+* [Vxelbee](https://www.youtube.com/channel/UCS1TedAX9-5yRl9Tx5E2qmg)
+* [Loonride](https://www.youtube.com/channel/UCOMoPihYOcUZn9cs9OMFhEw)
 
 
 ### Retired
