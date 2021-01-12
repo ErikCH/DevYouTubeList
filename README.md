@@ -146,6 +146,7 @@
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 * [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
 * [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
+* [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ)
 
 ### Informational
 > These channels focus on information about software development and career advice.
