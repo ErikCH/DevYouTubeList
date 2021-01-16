@@ -10,6 +10,7 @@
     - [Game Development](#game-development)
     - [Software Entertainment](#software-entertainment)
     - [Competitive Programming & Interview Preparation](#competitive-programming-and-interview-preparation)
+    - [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
     ### Non English
@@ -56,7 +57,6 @@
 * [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)
 * [Wes Bos](https://www.youtube.com/user/wesbos)
 * [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-* [Data School](https://www.youtube.com/user/dataschool)
 * [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)
 * [Andre Madarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ)
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
@@ -79,7 +79,6 @@
 * [Darrel Wilson](https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw)
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 * [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
-* [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [John Philip Jones](https://www.youtube.com/user/johnphilipjones)
 * [Qirolab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
 * [WPCasts](https://www.youtube.com/c/WPCasts)
@@ -145,6 +144,8 @@
 * [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 * [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
+* [TechWorld with Nana](https://www.youtube.com/TechWorldwithNana)
+* [Pretty Printed](https://www.youtube.com/PrettyPrintedTutorials)
 * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 * [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
 
@@ -188,8 +189,6 @@
 * [LowLevelJavascript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
 * [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
 * [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
-* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-* [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Ben Eater](https://www.youtube.com/user/eaterbc)
@@ -243,7 +242,6 @@
 > These channels are focused on entertainment and are more loosely associated with software development.
 
 * [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured)
-* [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 * [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
 * [CodeParade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
 * [Gyasi Linje](https://www.youtube.com/user/ASEgG100)
