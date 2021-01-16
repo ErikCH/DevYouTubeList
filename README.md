@@ -139,12 +139,13 @@
 * [Scaler Academy](https://www.youtube.com/scaleracademy)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Maksim Ivanov](https://www.youtube.com/user/satansdeer1)
+* [Harry Wolff](https://www.youtube.com/c/hswolff)
 * [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
 * [That DevOps Guy](https://www.youtube.com/c/marceldempers)
 * [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 * [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
-
+* [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -280,6 +281,7 @@
 * [Tech Dummies - Narendra L](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
 * [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
+* [takeUforward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig)
 
 
 ### Artificial Intelligence and Machine Learning
@@ -426,6 +428,10 @@
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 * [Bhagwan Singh Vishwakarma](https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw)
 * [Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA)
+* [Yahoo Baba](https://www.youtube.com/c/YahooBaba)
+* [Website Learners](https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA)
+* [Web dev](https://www.youtube.com/channel/UCZc238wXqeN2M2uXQaY9MEw)
+* [ProgrammingWithHarry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ)
 
 
 ## Turkish
@@ -480,6 +486,10 @@
 * [GroupBros](https://www.youtube.com/channel/UCJ_ApclSJcOmEMS8931_2nA)
 * [Rasel Ahmed](https://www.youtube.com/channel/UC94qXY-Icq1xaoGCQI11-mw)
 * [RR Foundation Bangladesh](https://www.youtube.com/c/rrfdhaka/videos)
+* [Moshiur](https://www.youtube.com/channel/UCcPGGA2RWx6C5o1xl18vUWA)
+* [Procoder BD](https://www.youtube.com/channel/UCruRBI2b_5r9T6mcvIA_5BA)
+* [ITBari](https://www.youtube.com/channel/UCbkTJxYf8LlAvkabh2D4I2g)
+
 
 
 
