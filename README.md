@@ -457,6 +457,13 @@
 * [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 * [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 * [Eser Ozvataf](https://youtube.com/EserOzvataf)
+* [Adem Ilter](https://www.youtube.com/channel/UC1Z-a8i2Ce4oIEMV-S3iFrg)
+* [Ugur Aktas](https://www.youtube.com/channel/UCY9swEQhMRJdaMrbehjnHDA)
+* [Burhan Yilmaz](https://www.youtube.com/channel/UC-CFlBKC97fqPJZcgi5lw2w)
+* [Devrim Gunduz](https://www.youtube.com/c/DevrimGunduz/)
+* [Fikret Cevik](https://www.youtube.com/channel/UCDSvN-wCyNjMstH2N4fmROg)
+* [Serif Gungor](https://www.youtube.com/c/SerifGUNGOR/)
+* [Mehmet Dursun Ince](https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q)
 
 
 ## Italian
