@@ -366,6 +366,7 @@
 * [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 * [Code Mortals](https://www.youtube.com/codemortals)
+* [veryacademy](https://www.youtube.com/veryacademy/)
 * [Ashutosh Tiwari](https://www.youtube.com/channel/UC3VAed5huwZHOaE3q-Ap8qg)
 * [Coding Artist](https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ)
 * [heyitsbecky](https://www.youtube.com/channel/UCX7jTPSHTm4J3ZjSZxm5RrQ)
