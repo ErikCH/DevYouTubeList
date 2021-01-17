@@ -145,10 +145,12 @@
 * [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 * [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
+* [Pyplane](https://www.youtube.com/channel/UCQtHyVB4O4Nwy1ff5qQnyRw)
 * [TechWorld with Nana](https://www.youtube.com/TechWorldwithNana)
 * [Pretty Printed](https://www.youtube.com/PrettyPrintedTutorials)
 * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 * [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
+
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -202,6 +204,7 @@
 * [Healthy Software Developer](https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ)
 * [Python Programmer](https://www.youtube.com/user/consumerchampion)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
+* [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)
 * [GitHub](https://www.youtube.com/user/github)
 * [GitHub Training & Guides](https://youtube.com/user/GitHubGuides)
 
@@ -353,6 +356,8 @@
 * [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 * [Code Mortals](https://www.youtube.com/codemortals)
+* [veryacademy](https://www.youtube.com/veryacademy/)
+
 
 
 ### Retired
