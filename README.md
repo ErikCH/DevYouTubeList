@@ -147,6 +147,8 @@
 * [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 * [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
+* [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
+* [CodeLyon](https://www.youtube.com/channel/UC08G-UJT58SbkdmcOYyOQVw)
 * [Pyplane](https://www.youtube.com/channel/UCQtHyVB4O4Nwy1ff5qQnyRw)
 * [TechWorld with Nana](https://www.youtube.com/TechWorldwithNana)
 * [Pretty Printed](https://www.youtube.com/PrettyPrintedTutorials)
@@ -289,6 +291,7 @@
 * [Tech Dummies - Narendra L](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
 * [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
+* [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 * [takeUforward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig)
 
 
@@ -358,6 +361,18 @@
 * [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 * [Code Mortals](https://www.youtube.com/codemortals)
+* [Ashutosh Tiwari](https://www.youtube.com/channel/UC3VAed5huwZHOaE3q-Ap8qg)
+* [Coding Artist](https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ)
+* [heyitsbecky](https://www.youtube.com/channel/UCX7jTPSHTm4J3ZjSZxm5RrQ)
+* [Inside code](https://www.youtube.com/channel/UCvLEP7Hu6SHd5a2CWeQXalg)
+* [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
+* [Manan Gouhari](https://www.youtube.com/channel/UCrM5WHtPD4OEQ1hcpvN9WDQ)
+* [ProgrammingWithHarry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ)
+* [Rahul Ahire](https://www.youtube.com/channel/UCMf5xoyJRUxvpqlXw3KQpaw)
+* [Tanay Pratap](https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA)
+* [The Nerdy Dev](https://www.youtube.com/channel/UCWWRLPeMNMeDhpfE7R6qCyw)
+* [{TheSourceCode}](https://www.youtube.com/channel/UCNXt2MrZaqfIBknamqwzeXA)
+* [Yahoo Baba](https://www.youtube.com/channel/UCuT0rj__qEq_ZO3kYwun4Qg)
 * [veryacademy](https://www.youtube.com/veryacademy/)
 
 
@@ -441,6 +456,7 @@
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 * [Bhagwan Singh Vishwakarma](https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw)
 * [Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA)
+* [Anuj Bhaiya](https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg)
 * [Yahoo Baba](https://www.youtube.com/c/YahooBaba)
 * [Website Learners](https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA)
 * [Web dev](https://www.youtube.com/channel/UCZc238wXqeN2M2uXQaY9MEw)
