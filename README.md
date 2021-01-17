@@ -306,6 +306,7 @@
 * [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
 * [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 * [takeUforward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig)
+* [Learn Competitive Programming with CodeChef](https://www.youtube.com/channel/UCh-5M0r0SBgb5xNCFXG7aXQ)
 
 
 ### Artificial Intelligence and Machine Learning
@@ -337,7 +338,7 @@
 
 ### Up And Coming
 > These channels have less than a thousand subscribers or less than 10000 views a month.
-
+* [Code for Throne](https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw)
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
