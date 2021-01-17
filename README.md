@@ -749,6 +749,7 @@
 * [UW-TEAM.org](https://www.youtube.com/user/uwteamorg)
 ##### Informational
 * [JavaDevMatt](https://www.youtube.com/user/JavaDevMatt)
+* [Przeprogramowani](https://www.youtube.com/c/przeprogramowani)
 ##### Live Coding
 * [Hubert Moszka](https://www.youtube.com/channel/UCnVDvEpH2H7Hm2D9i718gbA)
 * [GynvaelColdwind](https://www.youtube.com/user/GynvaelColdwind)
