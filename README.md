@@ -265,6 +265,7 @@
 * [Socratica](https://www.youtube.com/user/SocraticaStudios)
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Jarvis Johnson](https://www.youtube.com/user/VSympathyV)
+* [harshibar](https://www.youtube.com/channel/UCsp_z4KR3dOczXw7Q-SPqQg)
 * [Tren Black](https://www.youtube.com/channel/UCSSBvqWNPq_qO3_W4EJiOAA)
 * [Jarvis Johnson! GOLD](https://www.youtube.com/channel/UCR1PVwrPjpz0U_Fbju-BAzQ)
 
