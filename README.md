@@ -147,6 +147,7 @@
 * [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 * [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
+* [Programming Hero](https://www.youtube.com/channel/UCStj-ORBZ7TGK1FwtGAUgbQ)
 * [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
 * [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
 * [CodeLyon](https://www.youtube.com/channel/UC08G-UJT58SbkdmcOYyOQVw)
@@ -155,7 +156,6 @@
 * [Pretty Printed](https://www.youtube.com/PrettyPrintedTutorials)
 * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 * [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
-
 
 ### Informational
 > These channels focus on information about software development and career advice.
