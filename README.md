@@ -157,6 +157,7 @@
 * [Pretty Printed](https://www.youtube.com/PrettyPrintedTutorials)
 * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 * [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
+* [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ)
 * [Amine M. Boulouma](https://www.youtube.com/aminemboulouma)
 
 ### Informational
