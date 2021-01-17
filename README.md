@@ -564,6 +564,7 @@
 * [NetMentor](https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ)
 * [Pelado Nerd](https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g)
 * [That C# guy](https://www.youtube.com/channel/UC8KCb358oioQMcJ5pUfs8UQ)
+* [midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
 
 
 ## Catalan
