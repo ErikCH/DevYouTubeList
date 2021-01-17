@@ -157,6 +157,7 @@
 * [Pretty Printed](https://www.youtube.com/PrettyPrintedTutorials)
 * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 * [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
+* [Amine M. Boulouma](https://www.youtube.com/aminemboulouma)
 
 ### Informational
 > These channels focus on information about software development and career advice.
