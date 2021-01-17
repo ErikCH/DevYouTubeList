@@ -313,7 +313,7 @@
 
 ### Up And Coming
 > These channels have less than a thousand subscribers or less than 10000 views a month.
-* [Code for Throne](https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw)
+
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
@@ -350,6 +350,8 @@
 * [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 * [Nick Janetakis](https://www.youtube.com/NickJanetakis)
 * [Code Mortals](https://www.youtube.com/codemortals)
+* [Code for Throne](https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw)
+
 
 
 ### Retired
