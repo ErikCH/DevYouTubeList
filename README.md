@@ -523,6 +523,7 @@
 * [JS Bangladesh](https://www.youtube.com/user/udbhot)
 * [Klassroom](https://www.youtube.com/c/KlassroomGlobal)
 * [Zonayed Ahmed](https://www.youtube.com/user/zonayedpcayahoocom)
+* [MD. Al-Shahriar Tonmoy](https://www.youtube.com/channel/UCYttUWHHfYT3lT3snj4P4_g)
 * [Dev Stack](https://www.youtube.com/channel/UCE9YNto5Fc8u7DdOTuCm8rw)
 * [Developer Jillur](https://www.youtube.com/channel/UCtL1A8QP4hLUx9vAy8mgvSw)
 * [GroupBros](https://www.youtube.com/channel/UCJ_ApclSJcOmEMS8931_2nA)
