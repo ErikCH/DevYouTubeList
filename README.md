@@ -518,6 +518,7 @@
 * [Tamim Shahriar](https://www.youtube.com/channel/UCFsbfRphhQfPFJrwKb7s3JA)
 * [Zulkarnine Mahmud](https://www.youtube.com/user/zulkarnine2076)
 * [Learn with Hasin Hayder](https://www.youtube.com/user/countdraculla16)
+* [Learn with Sumit](https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg)
 * [Sharif Chowdhury](https://www.youtube.com/user/shariftech)
 * [LoveExtendsCode](https://www.youtube.com/user/dipmessi10)
 * [Sayef Reyadh - Programming Made Simple](https://www.youtube.com/channel/UCMrXkqBzR71QsTxuwIJalGg)
