@@ -394,6 +394,7 @@
 ### Retired
 > These channels haven't uploaded in the last six months.
 
+* [Brackeys](https://www.youtube.com/user/Brackeys)
 * [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
 * [Adam Khoury](https://www.youtube.com/user/flashbuilding)
 * [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA)
