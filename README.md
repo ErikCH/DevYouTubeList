@@ -160,6 +160,7 @@
 * [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ)
 * [Amine M. Boulouma](https://www.youtube.com/aminemboulouma)
 
+
 ### Informational
 > These channels focus on information about software development and career advice.
 
@@ -474,6 +475,9 @@
 * [Website Learners](https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA)
 * [Web dev](https://www.youtube.com/channel/UCZc238wXqeN2M2uXQaY9MEw)
 * [ProgrammingWithHarry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ)
+* [nterviewBit](https://www.youtube.com/channel/UC1zDen32_Zt5G3Mm2aLV7ig)
+* [Nishant Chahar](https://www.youtube.com/channel/UCVe8CMJF4caRzuckVYV8CaQ)
+* [Anshika Gupta](https://www.youtube.com/channel/UCXiFvBv-DKqGdB8Oaz5fJ1A)
 
 
 ## Turkish
