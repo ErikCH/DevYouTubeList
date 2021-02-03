@@ -450,7 +450,7 @@
 * [Aida Drogan #BlondieCode](https://www.youtube.com/channel/UCSsg9NLCse2XQCIRgfmJu3Q)
 
 ## Hindi
-
+* [Coder's Gyan](https://www.youtube.com/channel/UCo9xTRmg1SqQ5JSsA2fAgJw)
 * [Mentorsadda](https://www.youtube.com/user/Mentorsadda)
 * [edureka! Hindi](https://www.youtube.com/channel/UCywyZ4r4FTKExrPl9rf-ggw)
 * [Websofttutorials](https://www.youtube.com/user/websofttutorials)
