@@ -451,6 +451,7 @@
 
 ## Hindi
 
+* [Aditya Verma - DSA](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists)
 * [Mentorsadda](https://www.youtube.com/user/Mentorsadda)
 * [edureka! Hindi](https://www.youtube.com/channel/UCywyZ4r4FTKExrPl9rf-ggw)
 * [Websofttutorials](https://www.youtube.com/user/websofttutorials)
