@@ -16,6 +16,7 @@
     ### Non English
     - [Russian](#russian)
     - [Hindi](#hindi)
+    - [Hungarian](#hungarian)
     - [Turkish](#turkish)
     - [Italian](#italian)
     - [Bengali](#bengali)
@@ -475,6 +476,9 @@
 * [Web dev](https://www.youtube.com/channel/UCZc238wXqeN2M2uXQaY9MEw)
 * [ProgrammingWithHarry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ)
 
+## Hungarian
+
+* [Webmania.cc](https://www.youtube.com/channel/UCv2sDLrrA2OoOAERwKCmaYg)
 
 ## Turkish
 
