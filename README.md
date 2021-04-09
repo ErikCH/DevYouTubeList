@@ -216,6 +216,8 @@
 * [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)
 * [GitHub](https://www.youtube.com/user/github)
 * [GitHub Training & Guides](https://youtube.com/user/GitHubGuides)
+* [Jacob Sorber](https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ)
+* [Dave's Garage](https://www.youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw)
 
 
 
@@ -428,6 +430,7 @@
 * [Coders Hub](https://www.youtube.com/channel/UCIDlA0FJcpqJHELzdelFAWg/videos)
 * [FlutterDeveloper](https://www.youtube.com/channel/UCa-t2GBQ4UcbDi4vIIwagDg/videos)
 * [mycodeschool](https://www.youtube.com/user/mycodeschool/featured)
+* [Bo Qian](https://www.youtube.com/user/BoQianTheProgrammer)
 
 # Non English
 
