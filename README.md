@@ -332,6 +332,7 @@
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 * [SethBling](https://www.youtube.com/user/sethbling)
 * [Jeremy Howard](https://www.youtube.com/user/howardjeremyp)
+* [Mildlyoverfitted](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
 
 
 
