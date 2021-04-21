@@ -33,6 +33,7 @@
     - [Polish](#polish)
     - [Somali](#somali)
     - [Vietnam](#vietnam)
+    - [Ukrainian](#ukrainian)
 
 
 
@@ -801,3 +802,7 @@
 * [Lập trình viên TV](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 * [Thư Viện Lập Trình](https://www.youtube.com/c/ThuvienlaptrinhEduVn)
 * [CodersX](https://www.youtube.com/c/CodersX)
+
+## Ukrainian
+##### Informational
+* [Dima Maleev](https://www.youtube.com/c/SunnyDimKo/)
