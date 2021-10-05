@@ -56,6 +56,7 @@
 * [Level Up Tuts](https://www.youtube.com/user/LevelUpTuts)
 * [Codecourse](https://www.youtube.com/user/phpacademy)
 * [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&app=desktop)
+* [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&app=desktop)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 * [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)
 * [Wes Bos](https://www.youtube.com/user/wesbos)
