@@ -159,6 +159,7 @@
 * [Coding With Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A)
 * [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ)
 * [Amine M. Boulouma](https://www.youtube.com/aminemboulouma)
+* [Sonny Sangha](https://www.youtube.com/SonnySangha)
 
 ### Informational
 > These channels focus on information about software development and career advice.
