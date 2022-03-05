@@ -33,6 +33,7 @@
     - [Polish](#polish)
     - [Somali](#somali)
     - [Vietnam](#vietnam)
+    - [Uzbek](#uzbek)
 
 
 
@@ -802,3 +803,15 @@
 * [Lập trình viên TV](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 * [Thư Viện Lập Trình](https://www.youtube.com/c/ThuvienlaptrinhEduVn)
 * [CodersX](https://www.youtube.com/c/CodersX)
+
+## Uzbek
+* [Alitech](https://www.youtube.com/c/Alitechacademy)
+* [Botir Ziyatov](https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA)
+* [Code Leader](https://www.youtube.com/c/CodeLeader)
+* [Farkhod Dadajanov](https://www.youtube.com/c/FarkhodDadajanov)
+* [Javohir Group](https://www.youtube.com/c/JavohirHakimov/playlists)
+* [Kadirov Dev](https://www.youtube.com/c/KadirovDev)
+* [Programmer UZ](https://www.youtube.com/c/ProgrammerUZ)
+* [Sardor Og'a](https://www.youtube.com/c/SardorOga)
+* [Sariq dev](https://www.youtube.com/c/Sariqdev)
+* [Хашимов Ахмаджон](https://www.youtube.com/channel/UCfYgHi7upcHSbGERx8qp-ww)
