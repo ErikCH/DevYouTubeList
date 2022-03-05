@@ -257,6 +257,7 @@
 * [Molly Rocket](https://www.youtube.com/user/handmadeheroarchive)
 * [Hopson](https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA)
 * [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
+* [Randy](https://www.youtube.com/c/RandallThomas)
 
 
 ### Software Entertainment
