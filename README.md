@@ -555,6 +555,8 @@
 ## Spanish
 
 * [A codear con Hugo](https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA)
+* [Gonzalo Pozzo](https://www.youtube.com/channel/UCCvaRcYdZCZBrBQVnsUBg5Q)
+* [Leonardo Galante](https://www.youtube.com/channel/UC-gFUpD0aKzMS5_uwbHSOrA)
 * [Antonio Sarosi](https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA)
 * [Appdelante](https://www.youtube.com/channel/UCJlT-NI_6xxLuuRjN8HNJDQ)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
