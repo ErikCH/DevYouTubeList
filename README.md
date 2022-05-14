@@ -514,6 +514,7 @@
 * [Fikret Cevik](https://www.youtube.com/channel/UCDSvN-wCyNjMstH2N4fmROg)
 * [Serif Gungor](https://www.youtube.com/c/SerifGUNGOR/)
 * [Mehmet Dursun Ince](https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q)
+* [Armağan Amcalar](https://www.youtube.com/c/Arma%C4%9FanAmcalar/)
 
 
 ## Italian
