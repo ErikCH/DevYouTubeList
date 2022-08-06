@@ -604,7 +604,6 @@
 * [BrazilJS](https://www.youtube.com/user/BrazilJS)
 * [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
-* [DevPrimata](https://www.youtube.com/channel/UCesuGTDZsIt1Z9NfiSGE3yg)
 * [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
 * [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
@@ -617,7 +616,6 @@
 * [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 * [Daniel Snows](https://www.youtube.com/channel/UCfDenO9v3NpxzE32hAdW36Q)
 * [Código Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg)
-* [Eduardo Pires](https://www.youtube.com/user/headfox)
 * [Eduardo Albuquerque](https://www.youtube.com/channel/UC8u-WRHndyT2VwOAwXP4Fgw)
 * [Tiago Matos](https://www.youtube.com/user/tiagomatosweb)
 * [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
@@ -673,6 +671,7 @@
 * [Vinícius Thiengo](https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw)
 * [Dev Lab](https://www.youtube.com/channel/UCqmJGTdcMIRXOZuukHZ8TqA)
 * [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w)
+* [desenvolvedor.io](https://www.youtube.com/c/desenvolvedorio)
 
 ## Korean
 
