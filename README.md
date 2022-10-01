@@ -673,6 +673,7 @@
 * [Vinícius Thiengo](https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw)
 * [Dev Lab](https://www.youtube.com/channel/UCqmJGTdcMIRXOZuukHZ8TqA)
 * [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w)
+* [Otavio Lemos](https://www.youtube.com/user/OtavioALLemos)
 
 ## Korean
 
