@@ -713,6 +713,8 @@
 * [In.Dev](https://www.youtube.com/channel/UCbskGJ6VHC_2AjHfQsp4EkQ)
 * [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ)
 * [Outbrain Engineering](https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA)
+* [Lokipod](https://www.youtube.com/@lokipod5230/featured)
+* [Jeremy Toledano](https://www.youtube.com/@jeremytoledano123/featured)
 
 
 ## Indonesian
