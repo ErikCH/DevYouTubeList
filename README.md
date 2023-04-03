@@ -482,6 +482,8 @@
 * [Website Learners](https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA)
 * [Web dev](https://www.youtube.com/channel/UCZc238wXqeN2M2uXQaY9MEw)
 * [ProgrammingWithHarry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ)
+* [6 Pack Programmer](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw)
+
 
 
 ## Turkish
