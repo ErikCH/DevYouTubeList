@@ -292,7 +292,6 @@
 * [Errichto 2](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
 * [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 * [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
-* [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ)
 * [Go Code](https://www.youtube.com/channel/UCoEt3glB4rWSq5zEhSGhUWA)
 * [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
 * [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
