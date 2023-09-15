@@ -519,6 +519,11 @@
 ## Italian
 
 * [Carmhack](https://www.youtube.com/user/TheCarmhack)
+  
+
+## Denmark
+
+* [DevTeacher](https://www.youtube.com/@DevTeacher)
 
 
 ## Bengali
