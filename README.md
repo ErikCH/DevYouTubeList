@@ -161,6 +161,7 @@
 * [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ)
 * [Amine M. Boulouma](https://www.youtube.com/aminemboulouma)
 * [codewithsadee](https://www.youtube.com/c/codewithsadee)
+* [Geeking with Jadi](https://www.youtube.com/c/geekingjadi/)
 
 ### Informational
 > These channels focus on information about software development and career advice.
@@ -597,6 +598,7 @@
 ## Farsi
 
 * [ParsClick](https://www.youtube.com/c/Parsclicktv)
+* [جادی](https://www.youtube.com/c/JadiMirmirani/)
 
 
 ## Brazilian
